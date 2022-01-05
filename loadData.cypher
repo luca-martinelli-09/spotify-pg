@@ -7,6 +7,8 @@ CREATE CONSTRAINT IF NOT EXISTS FOR (alb:Album) REQUIRE alb.id IS UNIQUE ;
 CREATE CONSTRAINT IF NOT EXISTS FOR (t:Track) REQUIRE t.id IS UNIQUE ;
 CREATE CONSTRAINT IF NOT EXISTS FOR (ch:Chart) REQUIRE ch.id IS UNIQUE ;
 CREATE CONSTRAINT IF NOT EXISTS FOR (p:Person) REQUIRE p.id IS UNIQUE ;
+CREATE CONSTRAINT IF NOT EXISTS FOR (i:Instrument) REQUIRE i.name IS UNIQUE ;
+CREATE CONSTRAINT IF NOT EXISTS FOR (r:RecorLabel) REQUIRE r.id IS UNIQUE ;
 
 // Load genres
 
@@ -98,17 +100,42 @@ LOAD CSV WITH HEADERS FROM "file:///C:/datasets/charts.csv" AS chart
 
     WITH chart, ch
     MATCH (c:Country { id: chart.country_code })
-    CREATE (t)-[:isReferredTo]->(c)
+    MERGE (t)-[:isReferredTo]->(c)
 
     WITH chart, ch
     MATCH (t:Track { id: chart.trackID })
     CREATE (t)-[r:isPositionedIn { position: toInteger(chart.position) }]->(ch)
 ;
 
+// Load instruments
+USING PERIODIC COMMIT LOAD CSV WITH HEADERS FROM "file:///C:/datasets/instruments.csv" AS instrument
+    CREATE (i:Instrument { name: instrument.name, })
+;
+
+// Load record labels
+
+LOAD CSV WITH HEADERS FROM "file:///C:/datasets/recordLabels.csv" AS recordLabel
+    MERGE (r:RecorLabel {
+        id: recordLabel.id,
+        name: recordLabel.name,
+    })
+
+    WITH recordLabel, r
+    MATCH (c:Country { id: recordLabel.country })
+    MERGE (r)-[:isLocatedIn]->(c)
+;
+
 // Load people
 
 LOAD CSV WITH HEADERS FROM "file:///C:/datasets/people.csv" AS person
-    MERGE (p:Person { id: person.id, name: person.name, surname: person.surname, birthDate: date(person.birthdate), deathDate: date(person.deathdate) })
+    MERGE (p:Person {
+        id: person.id,
+        name: person.name,
+        surname: person.surname,
+        gender: person.gender,
+        birthDate: date(person.birthdate),
+        deathDate: date(person.deathdate),
+    })
 
     WITH person, p
     MATCH (c:Country { id: person.nationality })
@@ -117,4 +144,13 @@ LOAD CSV WITH HEADERS FROM "file:///C:/datasets/people.csv" AS person
     WITH person, p
     MATCH (a:Artist { id: person.artist })
     CREATE (p)-[r:isMemberOf]->(a)
+
+    WITH person, p, split(person.instruments, ",") as instruments
+    UNWIND instruments AS instrument
+        MERGE (p)-[:plays]->(i:Instrument { name: instrument })
+
+    WITH person, p, split(person.recordLabels, ",") as recordLabels
+    UNWIND recordLabels AS recordLabel
+        MATCH (r:RecorLabel { id: recordLabel })
+        MERGE (p)-[:hasContractWith]->(r)
 ;
