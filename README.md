@@ -12,6 +12,11 @@
 - spotifyQueries.py
 ```
 
+### Setup the DBMS
+In order to execute queries and adding data, it is necessary to setup **Neo4j** and creating the database. In **Neo4j**:
+- Create a new database with name *SpotifyDB* and password *SpotifyDB*. The reccomended version is the lastest
+- Start the database
+
 ### Creation of the dataset
 Since both spotify charts file and reduced spotify charts are too big for GitHub, it is necessary to manual download and create them.
 
@@ -42,5 +47,5 @@ The presentation is available at this [link](slides/Spotify_Presentation_Alecci_
 Open Database Browser, with user system execute
 
 ```
-CALL dbms.quarantineDatabase("neo4j",false);
+CALL dbms.quarantineDatabase("neo4j", false);
 ```
