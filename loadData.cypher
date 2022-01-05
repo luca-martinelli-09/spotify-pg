@@ -7,7 +7,7 @@ CREATE CONSTRAINT IF NOT EXISTS FOR (alb:Album) REQUIRE alb.id IS UNIQUE ;
 CREATE CONSTRAINT IF NOT EXISTS FOR (t:Track) REQUIRE t.id IS UNIQUE ;
 CREATE CONSTRAINT IF NOT EXISTS FOR (ch:Chart) REQUIRE ch.id IS UNIQUE ;
 CREATE CONSTRAINT IF NOT EXISTS FOR (p:Person) REQUIRE p.id IS UNIQUE ;
-CREATE CONSTRAINT IF NOT EXISTS FOR (i:Instrument) REQUIRE i.instrument IS UNIQUE ;
+CREATE CONSTRAINT IF NOT EXISTS FOR (i:Instrument) REQUIRE i.name IS UNIQUE ;
 CREATE CONSTRAINT IF NOT EXISTS FOR (r:RecorLabel) REQUIRE r.id IS UNIQUE ;
 
 // Load genres
@@ -105,6 +105,11 @@ LOAD CSV WITH HEADERS FROM "file:///C:/datasets/charts.csv" AS chart
     WITH chart, ch
     MATCH (t:Track { id: chart.trackID })
     CREATE (t)-[r:isPositionedIn { position: toInteger(chart.position) }]->(ch)
+;
+
+// Load instruments
+USING PERIODIC COMMIT LOAD CSV WITH HEADERS FROM "file:///C:/datasets/instruments.csv" AS instrument
+    CREATE (i:Instrument { name: instrument.name, })
 ;
 
 // Load record labels
