@@ -144,12 +144,12 @@ LOAD CSV WITH HEADERS FROM "file:///C:/datasets/people.csv" AS person
     MATCH (a:Artist { id: person.artist })
     CREATE (p)-[r:isMemberOf]->(a)
 
+    WITH person, p, a, split(person.recordLabels, ",") as recordLabels
+    UNWIND recordLabels AS recordLabel
+        MATCH (r:RecorLabel { id: recordLabel })
+        MERGE (a)-[:hasContractWith]->(r)
+
     WITH person, p, split(person.instruments, ",") as instruments
     UNWIND instruments AS instrument
         MERGE (p)-[:plays]->(i:Instrument { name: instrument })
-
-    WITH person, p, split(person.recordLabels, ",") as recordLabels
-    UNWIND recordLabels AS recordLabel
-        MATCH (r:RecorLabel { id: recordLabel })
-        MERGE (p)-[:hasContractWith]->(r)
 ;
