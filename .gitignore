@@ -1,15 +1,5 @@
 .vscode/
 __pycache__/
-datasets/*
-!datasets/albums.csv
-!datasets/altCountries.csv
-!datasets/countries.csv
-!datasets/artists.csv
-!datasets/charts.csv
-!datasets/genres.csv
-!datasets/instruments.csv
-!datasets/markets.csv
-!datasets/recordLabels.csv
-!datasets/people.csv
-!datasets/tracks.csv
+datasets/reducedSpotifyCharts.csv
+datasets/spotifyCharts.csv
 spotifyCredentials.py
