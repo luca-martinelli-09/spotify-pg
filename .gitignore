@@ -10,4 +10,6 @@ datasets/*
 !datasets/instruments.csv
 !datasets/markets.csv
 !datasets/recordLabels.csv
+!datasets/people.csv
+!datasets/tracks.csv
 spotifyCredentials.py
