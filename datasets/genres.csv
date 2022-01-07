@@ -1,0 +1,1619 @@
+,id,name
+0,atl-hip-hop,atl hip hop
+1,hip-hop,hip hop
+2,pop-rap,pop rap
+3,rap,rap
+4,trap,trap
+5,melodic-rap,melodic rap
+6,philly-rap,philly rap
+7,canadian-hip-hop,canadian hip hop
+8,canadian-pop,canadian pop
+9,toronto-rap,toronto rap
+10,canadian-contemporary-r-b,canadian contemporary r&b
+11,pop,pop
+12,electro,electro
+13,filter-house,filter house
+14,dance-pop,dance pop
+15,edm,edm
+16,electropop,electropop
+17,pop-dance,pop dance
+18,tropical-house,tropical house
+19,etherpop,etherpop
+20,indie-poptimism,indie poptimism
+21,mississippi-hip-hop,mississippi hip hop
+22,southern-hip-hop,southern hip hop
+23,dirty-south-rap,dirty south rap
+24,gangster-rap,gangster rap
+25,alternative-r-b,alternative r&b
+26,virginia-hip-hop,virginia hip hop
+27,underground-hip-hop,underground hip hop
+28,viral-rap,viral rap
+29,afro-dancehall,afro dancehall
+30,afropop,afropop
+31,azonto,azonto
+32,nigerian-hip-hop,nigerian hip hop
+33,nigerian-pop,nigerian pop
+34,uk-funky,uk funky
+35,portland-hip-hop,portland hip hop
+36,electronic-trap,electronic trap
+37,detroit-hip-hop,detroit hip hop
+38,ohio-hip-hop,ohio hip hop
+39,post-teen-pop,post-teen pop
+40,uk-pop,uk pop
+41,pop-rock,pop rock
+42,conscious-hip-hop,conscious hip hop
+43,west-coast-rap,west coast rap
+44,san-diego-rap,san diego rap
+45,north-carolina-hip-hop,north carolina hip hop
+46,lgbtq--hip-hop,lgbtq+ hip hop
+47,nyc-rap,nyc rap
+48,chicago-rap,chicago rap
+49,new-orleans-rap,new orleans rap
+50,pop-edm,pop edm
+51,complextro,complextro
+52,electro-house,electro house
+53,german-techno,german techno
+54,alt-z,alt z
+55,hip-pop,hip pop
+56,queens-hip-hop,queens hip hop
+57,viral-pop,viral pop
+58,dutch-edm,dutch edm
+59,progressive-house,progressive house
+60,girl-group,girl group
+61,talent-show,talent show
+62,r-b,r&b
+63,trap-soul,trap soul
+64,modern-rock,modern rock
+65,rock,rock
+66,barbadian-pop,barbadian pop
+67,urban-contemporary,urban contemporary
+68,house,house
+69,uk-dance,uk dance
+70,indie-electropop,indie electropop
+71,atl-trap,atl trap
+72,slap-house,slap house
+73,social-media-pop,social media pop
+74,australian-dance,australian dance
+75,australian-pop,australian pop
+76,moombahton,moombahton
+77,art-pop,art pop
+78,danish-pop,danish pop
+79,viral-trap,viral trap
+80,aussietronica,aussietronica
+81,melbourne-bounce,melbourne bounce
+82,british-soul,british soul
+83,pop-soul,pop soul
+84,neo-soul,neo soul
+85,adult-standards,adult standards
+86,motown,motown
+87,soul,soul
+88,dancehall,dancehall
+89,classic-soul,classic soul
+90,funk,funk
+91,indie-r-b,indie r&b
+92,northern-soul,northern soul
+93,quiet-storm,quiet storm
+94,pittsburgh-rap,pittsburgh rap
+95,modern-alternative-rock,modern alternative rock
+96,stomp-pop,stomp pop
+97,dmv-rap,dmv rap
+98,colombian-pop,colombian pop
+99,latin,latin
+100,latin-pop,latin pop
+101,reggaeton,reggaeton
+102,reggaeton-colombiano,reggaeton colombiano
+103,trap-latino,trap latino
+104,indietronica,indietronica
+105,indie-pop-rap,indie pop rap
+106,oakland-hip-hop,oakland hip hop
+107,vapor-trap,vapor trap
+108,hyphy,hyphy
+109,norwegian-pop,norwegian pop
+110,escape-room,escape room
+111,new-rave,new rave
+112,big-room,big room
+113,classic-rock,classic rock
+114,glam-rock,glam rock
+115,dfw-rap,dfw rap
+116,boy-band,boy band
+117,downtempo,downtempo
+118,shiver-pop,shiver pop
+119,canadian-trap,canadian trap
+120,florida-rap,florida rap
+121,miami-hip-hop,miami hip hop
+122,kentucky-hip-hop,kentucky hip hop
+123,meme-rap,meme rap
+124,album-rock,album rock
+125,mellow-gold,mellow gold
+126,soft-rock,soft rock
+127,yacht-rock,yacht rock
+128,australian-electropop,australian electropop
+129,australian-indie,australian indie
+130,scandipop,scandipop
+131,alte,alte
+132,swedish-electropop,swedish electropop
+133,swedish-pop,swedish pop
+134,uk-contemporary-r-b,uk contemporary r&b
+135,eurodance,eurodance
+136,new-jersey-rap,new jersey rap
+137,deep-groove-house,deep groove house
+138,bassline,bassline
+139,candy-pop,candy pop
+140,metropopolis,metropopolis
+141,neo-mellow,neo mellow
+142,deep-euro-house,deep euro house
+143,deep-house,deep house
+144,german-dance,german dance
+145,alternative-rock,alternative rock
+146,dance-rock,dance rock
+147,permanent-wave,permanent wave
+148,new-french-touch,new french touch
+149,bboy,bboy
+150,instrumental-funk,instrumental funk
+151,modern-funk,modern funk
+152,channel-islands-indie,channel islands indie
+153,vapor-soul,vapor soul
+154,east-coast-hip-hop,east coast hip hop
+155,chicago-house,chicago house
+156,classic-house,classic house
+157,disco-house,disco house
+158,funky-house,funky house
+159,hip-house,hip house
+160,soulful-house,soulful house
+161,vocal-house,vocal house
+162,grime,grime
+163,london-rap,london rap
+164,uk-alternative-hip-hop,uk alternative hip hop
+165,uk-hip-hop,uk hip hop
+166,dutch-house,dutch house
+167,dutch-pop,dutch pop
+168,electro-pop-francais,electro-pop francais
+169,shimmer-pop,shimmer pop
+170,mexican-pop,mexican pop
+171,puerto-rican-pop,puerto rican pop
+172,rap-latina,rap latina
+173,trap-queen,trap queen
+174,reggaeton-flow,reggaeton flow
+175,latin-hip-hop,latin hip hop
+176,cumbia-pop,cumbia pop
+177,champeta,champeta
+178,tropical,tropical
+179,vallenato,vallenato
+180,electro-latino,electro latino
+181,argentine-telepop,argentine telepop
+182,pop-argentino,pop argentino
+183,cubaton,cubaton
+184,dominican-pop,dominican pop
+185,modern-salsa,modern salsa
+186,salsa,salsa
+187,rock-en-espanol,rock en espanol
+188,cumbia-paraguaya,cumbia paraguaya
+189,latin-arena-pop,latin arena pop
+190,panamanian-pop,panamanian pop
+191,pop-reggaeton,pop reggaeton
+192,cumbia-villera,cumbia villera
+193,modern-reggae,modern reggae
+194,reggae,reggae
+195,reggae-fusion,reggae fusion
+196,roots-reggae,roots reggae
+197,cumbia-chilena,cumbia chilena
+198,canto-popular-uruguayo,canto popular uruguayo
+199,cumbia-uruguaya,cumbia uruguaya
+200,argentine-rock,argentine rock
+201,folklore-argentino,folklore argentino
+202,spanish-pop,spanish pop
+203,german-pop,german pop
+204,danish-electronic,danish electronic
+205,belgian-edm,belgian edm
+206,austropop,austropop
+207,graz-indie,graz indie
+208,volkspop,volkspop
+209,german-hip-hop,german hip hop
+210,hamburg-hip-hop,hamburg hip hop
+211,german-drill,german drill
+212,swedish-tropical-house,swedish tropical house
+213,antideutsche,antideutsche
+214,deep-german-hip-hop,deep german hip hop
+215,partyschlager,partyschlager
+216,pop-nacional,pop nacional
+217,brazilian-edm,brazilian edm
+218,nova-mpb,nova mpb
+219,a-cappella,a cappella
+220,la-pop,la pop
+221,nyc-pop,nyc pop
+222,chicano-rap,chicano rap
+223,albanian-hip-hop,albanian hip hop
+224,french-indie-pop,french indie pop
+225,russian-dance,russian dance
+226,russian-edm,russian edm
+227,russian-pop,russian pop
+228,dutch-hip-hop,dutch hip hop
+229,dutch-rap-pop,dutch rap pop
+230,schlager,schlager
+231,women-s-music,women's music
+232,swedish-indie-pop,swedish indie pop
+233,swedish-synthpop,swedish synthpop
+234,australian-hip-hop,australian hip hop
+235,australian-talent-show,australian talent show
+236,australian-trap,australian trap
+237,alternative-dance,alternative dance
+238,dream-pop,dream pop
+239,beatboxing,beatboxing
+240,belgian-dance,belgian dance
+241,progressive-electro-house,progressive electro house
+242,ninja,ninja
+243,belgian-pop,belgian pop
+244,uk-alternative-pop,uk alternative pop
+245,sky-room,sky room
+246,classic-hardstyle,classic hardstyle
+247,euphoric-hardstyle,euphoric hardstyle
+248,belgian-indie,belgian indie
+249,kleinkunst,kleinkunst
+250,seattle-hip-hop,seattle hip hop
+251,icelandic-indie,icelandic indie
+252,icelandic-rock,icelandic rock
+253,jazz-blues,jazz blues
+254,memphis-soul,memphis soul
+255,southern-soul,southern soul
+256,funk-carioca,funk carioca
+257,funk-ostentacao,funk ostentacao
+258,funk-paulista,funk paulista
+259,sertanejo,sertanejo
+260,sertanejo-universitario,sertanejo universitario
+261,forro,forro
+262,sertanejo-pop,sertanejo pop
+263,funk-pop,funk pop
+264,pagode-baiano,pagode baiano
+265,funk-das-antigas,funk das antigas
+266,deep-funk-ostentacao,deep funk ostentacao
+267,pagode,pagode
+268,brega-funk,brega funk
+269,brazilian-hip-hop,brazilian hip hop
+270,brazilian-rock,brazilian rock
+271,axe,axe
+272,mpb,mpb
+273,samba-reggae,samba reggae
+274,funk-consciente,funk consciente
+275,folk-brasileiro,folk brasileiro
+276,r-b-brasileiro,r&b brasileiro
+277,trap-brasileiro,trap brasileiro
+278,pop-rap-brasileiro,pop rap brasileiro
+279,rap-cearense,rap cearense
+280,canadian-electronic,canadian electronic
+281,vapor-twitch,vapor twitch
+282,future-bass,future bass
+283,deep-tropical-house,deep tropical house
+284,chilean-rock,chilean rock
+285,trap-boricua,trap boricua
+286,chicha,chicha
+287,latin-alternative,latin alternative
+288,latin-rock,latin rock
+289,nueva-cancion,nueva cancion
+290,francoton,francoton
+291,french-pop,french pop
+292,reggaeton-chileno,reggaeton chileno
+293,dembow,dembow
+294,rap-dominicano,rap dominicano
+295,chilean-indie,chilean indie
+296,pop-chileno,pop chileno
+297,musica-popular-colombiana,musica popular colombiana
+298,vallenato-moderno,vallenato moderno
+299,perreo,perreo
+300,classic-venezuelan-pop,classic venezuelan pop
+301,cumbia,cumbia
+302,jazz-venezolano,jazz venezolano
+303,salsa-colombiana,salsa colombiana
+304,folclor-afrocolombiano,folclor afrocolombiano
+305,classic-colombian-pop,classic colombian pop
+306,salsa-international,salsa international
+307,salsa-venezolana,salsa venezolana
+308,latin-jazz,latin jazz
+309,porro,porro
+310,ecuadorian-pop,ecuadorian pop
+311,pop-costarricense,pop costarricense
+312,cantautor,cantautor
+313,bachata,bachata
+314,latin-afrobeat,latin afrobeat
+315,puerto-rican-rock,puerto rican rock
+316,rap-conciencia,rap conciencia
+317,gauze-pop,gauze pop
+318,mexican-rock,mexican rock
+319,german-jazz-rap,german jazz rap
+320,oldschool-deutschrap,oldschool deutschrap
+321,cologne-hip-hop,cologne hip hop
+322,german-reggae,german reggae
+323,german-pop-rock,german pop rock
+324,alternative-metal,alternative metal
+325,nu-metal,nu metal
+326,rap-metal,rap metal
+327,danish-hip-hop,danish hip hop
+328,dakke-dak,dakke dak
+329,danish-metal,danish metal
+330,danish-rock,danish rock
+331,canadian-singer-songwriter,canadian singer-songwriter
+332,classic-canadian-rock,classic canadian rock
+333,heartland-rock,heartland rock
+334,scandinavian-r-b,scandinavian r&b
+335,canadian-electropop,canadian electropop
+336,french-hip-hop,french hip hop
+337,rap-conscient,rap conscient
+338,colombian-rock,colombian rock
+339,pop-venezolano,pop venezolano
+340,spanish-pop-rock,spanish pop rock
+341,melbourne-bounce-international,melbourne bounce international
+342,finnish-dance-pop,finnish dance pop
+343,finnish-hip-hop,finnish hip hop
+344,finnish-pop,finnish pop
+345,iskelma,iskelma
+346,suomi-rock,suomi rock
+347,finnish-trap,finnish trap
+348,suomirap,suomirap
+349,eurovision,eurovision
+350,nordic-house,nordic house
+351,europop,europop
+352,finnish-edm,finnish edm
+353,trance,trance
+354,finnish-indie,finnish indie
+355,dutch-trance,dutch trance
+356,spanish-reggae,spanish reggae
+357,classic-iskelma,classic iskelma
+358,finnish-pop-punk,finnish pop punk
+359,pop-urbaine,pop urbaine
+360,drill-francais,drill francais
+361,rap-francais,rap francais
+362,trap-antillais,trap antillais
+363,rap-marseille,rap marseille
+364,old-school-rap-francais,old school rap francais
+365,nice-indie,nice indie
+366,electrofox,electrofox
+367,french-indietronica,french indietronica
+368,french-rock,french rock
+369,rap-calme,rap calme
+370,j-pop,j-pop
+371,japanese-r-b,japanese r&b
+372,rap-inde,rap inde
+373,arabic-hip-hop,arabic hip hop
+374,rap-algerien,rap algerien
+375,brostep,brostep
+376,indonesian-pop,indonesian pop
+377,bass-trap,bass trap
+378,polish-post-rock,polish post-rock
+379,indonesian-jazz,indonesian jazz
+380,indonesian-singer-songwriter,indonesian singer-songwriter
+381,k-pop,k-pop
+382,korean-pop,korean pop
+383,indonesian-folk,indonesian folk
+384,indonesian-indie,indonesian indie
+385,indonesian-indie-pop,indonesian indie pop
+386,indonesian-r-b,indonesian r&b
+387,indonesian-hip-hop,indonesian hip hop
+388,bruneian-pop,bruneian pop
+389,indonesian-reggae,indonesian reggae
+390,indiecoustica,indiecoustica
+391,k-pop-girl-group,k-pop girl group
+392,chill-r-b,chill r&b
+393,korean-r-b,korean r&b
+394,indie-anthem-folk,indie anthem-folk
+395,irish-rock,irish rock
+396,italian-adult-pop,italian adult pop
+397,italian-hip-hop,italian hip hop
+398,italian-pop,italian pop
+399,italian-indie-pop,italian indie pop
+400,turin-indie,turin indie
+401,rome-indie,rome indie
+402,milan-indie,milan indie
+403,rap-tunisien,rap tunisien
+404,italian-pop-rock,italian pop rock
+405,italian-underground-hip-hop,italian underground hip hop
+406,rap-napoletano,rap napoletano
+407,trap-italiana,trap italiana
+408,rap-sardegna,rap sardegna
+409,piano-rock,piano rock
+410,neo-singer-songwriter,neo-singer-songwriter
+411,italian-reggae,italian reggae
+412,emo-rap-italiano,emo rap italiano
+413,mariachi,mariachi
+414,nuevo-regional-mexicano,nuevo regional mexicano
+415,ranchera,ranchera
+416,regional-mexican,regional mexican
+417,banda,banda
+418,norteno,norteno
+419,mexican-hip-hop,mexican hip hop
+420,corrido,corrido
+421,sierreno,sierreno
+422,gruperas-inmortales,gruperas inmortales
+423,nu-cumbia,nu-cumbia
+424,bolero,bolero
+425,corridos-tumbados,corridos tumbados
+426,malaysian-pop,malaysian pop
+427,classic-malaysian-pop,classic malaysian pop
+428,malay-rap,malay rap
+429,malaysian-indie,malaysian indie
+430,rock-kapak,rock kapak
+431,k-pop-boy-group,k-pop boy group
+432,basshall,basshall
+433,desi-pop,desi pop
+434,dutch-indie-rock,dutch indie rock
+435,dutch-rock,dutch rock
+436,irish-pop,irish pop
+437,surinamese-pop,surinamese pop
+438,nederpop,nederpop
+439,russelater,russelater
+440,electropowerpop,electropowerpop
+441,st-louis-rap,st louis rap
+442,pop-house,pop house
+443,deep-pop-edm,deep pop edm
+444,norwegian-hip-hop,norwegian hip hop
+445,classic-norwegian-pop,classic norwegian pop
+446,danseband,danseband
+447,trondersk-musikk,trondersk musikk
+448,nz-hip-hop,nz hip hop
+449,australian-reggae-fusion,australian reggae fusion
+450,salsa-peruana,salsa peruana
+451,opm,opm
+452,pinoy-rock,pinoy rock
+453,pinoy-indie,pinoy indie
+454,pinoy-reggae,pinoy reggae
+455,polish-pop,polish pop
+456,v-pop,v-pop
+457,destroy-techno,destroy techno
+458,kizomba,kizomba
+459,musica-angolana,musica angolana
+460,portuguese-pop,portuguese pop
+461,semba,semba
+462,hip-hop-tuga,hip hop tuga
+463,rap-criolo,rap criolo
+464,drill-tuga,drill tuga
+465,czsk-reggae,czsk reggae
+466,reggae-tuga,reggae tuga
+467,kizomba-antigas,kizomba antigas
+468,kizomba-cabo-verdiana,kizomba cabo-verdiana
+469,swedish-idol-pop,swedish idol pop
+470,norwegian-indie,norwegian indie
+471,norwegian-pop-rap,norwegian pop rap
+472,swedish-hip-hop,swedish hip hop
+473,swedish-pop-rap,swedish pop rap
+474,swedish-gangsta-rap,swedish gangsta rap
+475,swedish-reggae,swedish reggae
+476,swedish-trap-pop,swedish trap pop
+477,mgpjr,mgpjr
+478,hard-rock,hard rock
+479,classic-swedish-pop,classic swedish pop
+480,skansk-musik,skansk musik
+481,swedish-country,swedish country
+482,swedish-alternative-rock,swedish alternative rock
+483,swedish-indie-rock,swedish indie rock
+484,mandopop,mandopop
+485,singaporean-mandopop,singaporean mandopop
+486,singaporean-pop,singaporean pop
+487,c-pop,c-pop
+488,taiwan-pop,taiwan pop
+489,zhongguo-feng,zhongguo feng
+490,turkish-pop,turkish pop
+491,turkish-trap-pop,turkish trap pop
+492,arabesk,arabesk
+493,turkish-singer-songwriter,turkish singer-songwriter
+494,turkish-deep-house,turkish deep house
+495,turkish-hip-hop,turkish hip hop
+496,turkish-trap,turkish trap
+497,deep-turkish-pop,deep turkish pop
+498,turkish-edm,turkish edm
+499,turkish-alt-pop,turkish alt pop
+500,turkish-modern-jazz,turkish modern jazz
+501,anadolu-rock,anadolu rock
+502,karadeniz-turkuleri,karadeniz turkuleri
+503,turkish-alternative,turkish alternative
+504,turkish-alternative-rock,turkish alternative rock
+505,turkish-rock,turkish rock
+506,kosovan-pop,kosovan pop
+507,oyun-havasi,oyun havasi
+508,turkish-folk,turkish folk
+509,irish-singer-songwriter,irish singer-songwriter
+510,taiwan-hip-hop,taiwan hip hop
+511,taiwan-singer-songwriter,taiwan singer-songwriter
+512,chinese-indie,chinese indie
+513,taiwan-indie,taiwan indie
+514,malaysian-mandopop,malaysian mandopop
+515,cantopop,cantopop
+516,hollywood,hollywood
+517,chinese-r-b,chinese r&b
+518,classic-mandopop,classic mandopop
+519,chinese-singer-songwriter,chinese singer-songwriter
+520,mainland-chinese-pop,mainland chinese pop
+521,movie-tunes,movie tunes
+522,plugg,plugg
+523,nottingham-indie,nottingham indie
+524,dancefloor-dnb,dancefloor dnb
+525,drum-and-bass,drum and bass
+526,austrian-pop,austrian pop
+527,german-rock,german rock
+528,vienna-indie,vienna indie
+529,folk-pop,folk-pop
+530,hawaiian-hip-hop,hawaiian hip hop
+531,stomp-and-holler,stomp and holler
+532,acoustic-pop,acoustic pop
+533,australian-indie-folk,australian indie folk
+534,indie-folk,indie folk
+535,devon-indie,devon indie
+536,contemporary-country,contemporary country
+537,country,country
+538,country-road,country road
+539,modern-country-rock,modern country rock
+540,norwegian-country,norwegian country
+541,norwegian-folk-rock,norwegian folk rock
+542,disney,disney
+543,show-tunes,show tunes
+544,deep-neofolk,deep neofolk
+545,pinoy-r-b,pinoy r&b
+546,tagalog-rap,tagalog rap
+547,swedish-drill,swedish drill
+548,swedish-trap,swedish trap
+549,compositional-ambient,compositional ambient
+550,experimental-classical,experimental classical
+551,icelandic-classical,icelandic classical
+552,icelandic-experimental,icelandic experimental
+553,nordic-soundtrack,nordic soundtrack
+554,soundtrack,soundtrack
+555,chinese-drama-ost,chinese drama ost
+556,afroswing,afroswing
+557,bhangra,bhangra
+558,classic-bhangra,classic bhangra
+559,canadian-indie,canadian indie
+560,italian-alternative,italian alternative
+561,classic-italian-pop,classic italian pop
+562,folk-rock-italiano,folk rock italiano
+563,brooklyn-indie,brooklyn indie
+564,indie-pop,indie pop
+565,vapor-pop,vapor pop
+566,persian-pop,persian pop
+567,turkish-jazz,turkish jazz
+568,j-poprock,j-poprock
+569,j-rock,j-rock
+570,japanese-emo,japanese emo
+571,visual-kei,visual kei
+572,pop-r-b,pop r&b
+573,brighton-indie,brighton indie
+574,garage-rock,garage rock
+575,sheffield-indie,sheffield indie
+576,british-singer-songwriter,british singer-songwriter
+577,pop-lgbtq--brasileira,pop lgbtq+ brasileira
+578,trap-dominicano,trap dominicano
+579,finnish-reggae,finnish reggae
+580,belgian-hip-hop,belgian hip hop
+581,rap-belge,rap belge
+582,singer-songwriter,singer-songwriter
+583,balkan-beats,balkan beats
+584,electro-swing,electro swing
+585,nu-jazz,nu jazz
+586,korean-singer-songwriter,korean singer-songwriter
+587,norwegian-house,norwegian house
+588,contemporary-r-b,contemporary r&b
+589,south-carolina-hip-hop,south carolina hip hop
+590,belgian-techno,belgian techno
+591,northern-irish-indie,northern irish indie
+592,future-garage,future garage
+593,chicago-indie,chicago indie
+594,funky-tech-house,funky tech house
+595,latin-metal,latin metal
+596,metal-colombiano,metal colombiano
+597,trova,trova
+598,finnish-soul,finnish soul
+599,veracruz-indie,veracruz indie
+600,ritmo-kombina,ritmo kombina
+601,melancholia,melancholia
+602,norwegian-singer-songwriter,norwegian singer-songwriter
+603,pop-peruano,pop peruano
+604,fotbollslatar,fotbollslatar
+605,qanun,qanun
+606,turkish-instrumental,turkish instrumental
+607,chinese-electropop,chinese electropop
+608,country-pop,country pop
+609,hyperpop-francais,hyperpop francais
+610,indie-soul,indie soul
+611,la-indie,la indie
+612,german-cloud-rap,german cloud rap
+613,laulaja-lauluntekija,laulaja-lauluntekija
+614,rebel-blues,rebel blues
+615,scottish-rock,scottish rock
+616,dutch-cabaret,dutch cabaret
+617,dutch-singer-songwriter,dutch singer-songwriter
+618,classic-dubstep,classic dubstep
+619,glam-metal,glam metal
+620,salsa-urbana,salsa urbana
+621,swedish-eurodance,swedish eurodance
+622,melodipop,melodipop
+623,stoner-metal,stoner metal
+624,emo-rap,emo rap
+625,mundart,mundart
+626,swiss-hip-hop,swiss hip hop
+627,swiss-indie,swiss indie
+628,german-alternative-rap,german alternative rap
+629,german-underground-rap,german underground rap
+630,canzone-napoletana,canzone napoletana
+631,rap-italiano-old-school,rap italiano old school
+632,indie-folk-italiano,indie folk italiano
+633,nederlandse-hardstyle,nederlandse hardstyle
+634,tekk,tekk
+635,gabba,gabba
+636,happy-hardcore,happy hardcore
+637,hardcore-techno,hardcore techno
+638,funk-metal,funk metal
+639,screamocore,screamocore
+640,swedish-dancehall,swedish dancehall
+641,karadeniz-pop,karadeniz pop
+642,neue-deutsche-welle,neue deutsche welle
+643,new-romantic,new romantic
+644,nu-disco,nu disco
+645,electra,electra
+646,post-grunge,post-grunge
+647,christlicher-rap,christlicher rap
+648,danish-alternative-rock,danish alternative rock
+649,danish-punk,danish punk
+650,reunion-pop,reunion pop
+651,indie-liguria,indie liguria
+652,rap-genovese,rap genovese
+653,dutch-trap,dutch trap
+654,orebro-indie,orebro indie
+655,hokkien-pop,hokkien pop
+656,taiwanese-indigenous,taiwanese indigenous
+657,post-punk-argentina,post-punk argentina
+658,ska-argentino,ska argentino
+659,batidao-romantico,batidao romantico
+660,canadian-rock,canadian rock
+661,neon-pop-punk,neon pop punk
+662,pixie,pixie
+663,pop-punk,pop punk
+664,discofox,discofox
+665,indonesian-alternative-rock,indonesian alternative rock
+666,malaysian-hip-hop,malaysian hip hop
+667,maluku-pop,maluku pop
+668,carnaval,carnaval
+669,sami,sami
+670,dansband,dansband
+671,danspunk,danspunk
+672,swedish-rock-and-roll,swedish rock-and-roll
+673,vintage-swedish-pop,vintage swedish pop
+674,singaporean-singer-songwriter,singaporean singer-songwriter
+675,nz-pop,nz pop
+676,brazilian-bass,brazilian bass
+677,brazilian-house,brazilian house
+678,mgp,mgp
+679,virgin-islands-reggae,virgin islands reggae
+680,classic-finnish-pop,classic finnish pop
+681,armenian-hip-hop,armenian hip hop
+682,armenian-pop,armenian pop
+683,afro-house,afro house
+684,south-african-house,south african house
+685,south-african-pop-dance,south african pop dance
+686,albanian-pop,albanian pop
+687,greek-trap,greek trap
+688,swedish-singer-songwriter,swedish singer-songwriter
+689,chinese-hip-hop,chinese hip hop
+690,alternative-hip-hop,alternative hip hop
+691,g-funk,g funk
+692,indonesian-pop-rock,indonesian pop rock
+693,lagu-sabahan,lagu sabahan
+694,norwegian-trap,norwegian trap
+695,melodic-dubstep,melodic dubstep
+696,kurdish-hip-hop,kurdish hip hop
+697,finnish-alternative-rock,finnish alternative rock
+698,detroit-trap,detroit trap
+699,german-trap,german trap
+700,italo-dance,italo dance
+701,bass-house,bass house
+702,canadian-indie-folk,canadian indie folk
+703,freak-folk,freak folk
+704,indie-rock,indie rock
+705,saskatchewan-indie,saskatchewan indie
+706,gqom,gqom
+707,gaming-edm,gaming edm
+708,hopebeat,hopebeat
+709,deep-regional-mexican,deep regional mexican
+710,turkish-psych,turkish psych
+711,romanian-house,romanian house
+712,romanian-pop,romanian pop
+713,pop-emo,pop emo
+714,modern-blues-rock,modern blues rock
+715,modern-hard-rock,modern hard rock
+716,finnish-electro,finnish electro
+717,k-rap,k-rap
+718,reggaeton-mexicano,reggaeton mexicano
+719,norwegian-rock,norwegian rock
+720,hands-up,hands up
+721,chinese-audiophile,chinese audiophile
+722,uk-dancehall,uk dancehall
+723,polish-hip-hop,polish hip hop
+724,gothenburg-indie,gothenburg indie
+725,old-school-atlanta-hip-hop,old school atlanta hip hop
+726,political-hip-hop,political hip hop
+727,crunk,crunk
+728,memphis-hip-hop,memphis hip hop
+729,boom-bap,boom bap
+730,old-school-hip-hop,old school hip hop
+731,golden-age-hip-hop,golden age hip hop
+732,ambient-folk,ambient folk
+733,art-rock,art rock
+734,beatlesque,beatlesque
+735,symphonic-rock,symphonic rock
+736,german-viral-rap,german viral rap
+737,pop-flamenco,pop flamenco
+738,sad-rap,sad rap
+739,birmingham-grime,birmingham grime
+740,birmingham-hip-hop,birmingham hip hop
+741,birmingham-indie,birmingham indie
+742,britpop,britpop
+743,leicester-indie,leicester indie
+744,moldovan-pop,moldovan pop
+745,rap-siciliano,rap siciliano
+746,rif,rif
+747,swedish-soul,swedish soul
+748,hungarian-pop,hungarian pop
+749,cypriot-pop,cypriot pop
+750,azeri-traditional,azeri traditional
+751,croatian-pop,croatian pop
+752,supergroup,supergroup
+753,chicago-bop,chicago bop
+754,pinoy-hip-hop,pinoy hip hop
+755,flamenco,flamenco
+756,nuevo-flamenco,nuevo flamenco
+757,rumba,rumba
+758,carnaval-cadiz,carnaval cadiz
+759,rap-montrealais,rap montrealais
+760,turkce-slow-sarkilar,turkce slow sarkilar
+761,madchester,madchester
+762,german-soundtrack,german soundtrack
+763,urbano-espanol,urbano espanol
+764,flamenco-urbano,flamenco urbano
+765,rock-andaluz,rock andaluz
+766,hardcore-hip-hop,hardcore hip hop
+767,french-indie-folk,french indie folk
+768,nordnorsk-rap,nordnorsk rap
+769,polish-trap,polish trap
+770,musica-santomense,musica santomense
+771,solo-wave,solo wave
+772,frauenrap,frauenrap
+773,k-pop-reality-show,k-pop reality show
+774,south-african-hip-hop,south african hip hop
+775,south-african-trap,south african trap
+776,azontobeats,azontobeats
+777,ghanaian-hip-hop,ghanaian hip hop
+778,afro-soul,afro soul
+779,amapiano,amapiano
+780,south-african-pop,south african pop
+781,chinese-idol-pop,chinese idol pop
+782,cuarteto,cuarteto
+783,musica-triste-brasileira,musica triste brasileira
+784,colombian-hip-hop,colombian hip hop
+785,salsa-choke,salsa choke
+786,danish-pop-rock,danish pop rock
+787,soul-flow,soul flow
+788,polish-alternative-rap,polish alternative rap
+789,bronx-hip-hop,bronx hip hop
+790,turntablism,turntablism
+791,phonk,phonk
+792,hardstyle,hardstyle
+793,jumpstyle,jumpstyle
+794,musica-canaria,musica canaria
+795,keroncong,keroncong
+796,classical-piano,classical piano
+797,turkish-classical-performance,turkish classical performance
+798,musical-advocacy,musical advocacy
+799,bubble-trance,bubble trance
+800,latin-viral-pop,latin viral pop
+801,sholawat,sholawat
+802,taiwan-punk,taiwan punk
+803,hong-kong-indie,hong kong indie
+804,afrofuturism,afrofuturism
+805,texas-country,texas country
+806,cali-rap,cali rap
+807,balearic,balearic
+808,musica-sarda,musica sarda
+809,minimal-tech-house,minimal tech house
+810,australian-indigenous,australian indigenous
+811,classic-indo-pop,classic indo pop
+812,indonesian-city-pop,indonesian city pop
+813,chinese-viral-pop,chinese viral pop
+814,modern-folk-rock,modern folk rock
+815,uk-americana,uk americana
+816,polish-electronica,polish electronica
+817,turkce-remix,turkce remix
+818,tennessee-hip-hop,tennessee hip hop
+819,bedroom-pop,bedroom pop
+820,manchester-hip-hop,manchester hip hop
+821,celtic-rock,celtic rock
+822,chinese-minyao,chinese minyao
+823,black-americana,black americana
+824,country-dawn,country dawn
+825,baroque-pop,baroque pop
+826,quebec-indie,quebec indie
+827,dangdut,dangdut
+828,dangdut-koplo,dangdut koplo
+829,javanese-dangdut,javanese dangdut
+830,lagu-jawa,lagu jawa
+831,moroccan-pop,moroccan pop
+832,trap-tuga,trap tuga
+833,r-b-en-espanol,r&b en espanol
+834,riddim,riddim
+835,halifax-indie,halifax indie
+836,future-house,future house
+837,rogaland-musikk,rogaland musikk
+838,arkansas-hip-hop,arkansas hip hop
+839,rap-df,rap df
+840,levenslied,levenslied
+841,irish-rebel-song,irish rebel song
+842,spanish-hip-hop,spanish hip hop
+843,batida,batida
+844,funana,funana
+845,rap-angolano,rap angolano
+846,german-indie,german indie
+847,spanish-rock,spanish rock
+848,rai,rai
+849,rap-kreyol,rap kreyol
+850,french-reggae,french reggae
+851,funk-melody,funk melody
+852,rap-canario,rap canario
+853,deep-tech-house,deep tech house
+854,xinyao,xinyao
+855,cueca-chilena,cueca chilena
+856,folklore-chileno,folklore chileno
+857,classic-danish-pop,classic danish pop
+858,instrumental-grime,instrumental grime
+859,german-boom-bap,german boom bap
+860,emo,emo
+861,pop-quebecois,pop quebecois
+862,funk-rock,funk rock
+863,rap-rock,rap rock
+864,blues-rock,blues rock
+865,detroit-rock,detroit rock
+866,punk-blues,punk blues
+867,turkish-punk,turkish punk
+868,argentine-hip-hop,argentine hip hop
+869,trap-argentino,trap argentino
+870,trap-triste,trap triste
+871,cumbia-420,cumbia 420
+872,rap-antillais,rap antillais
+873,afrofuturismo-brasileiro,afrofuturismo brasileiro
+874,brazilian-reggae,brazilian reggae
+875,cartoon,cartoon
+876,pony,pony
+877,talentkonkurranse,talentkonkurranse
+878,smooth-soul,smooth soul
+879,pagode-novo,pagode novo
+880,rap-catala,rap catala
+881,trap-catala,trap catala
+882,bow-pop,bow pop
+883,cello,cello
+884,finnish-metal,finnish metal
+885,gothic-metal,gothic metal
+886,symphonic-metal,symphonic metal
+887,indonesian-folk-pop,indonesian folk pop
+888,nz-reggae,nz reggae
+889,pacific-islands-pop,pacific islands pop
+890,g-house,g-house
+891,cuban-alternative,cuban alternative
+892,kingston-on-indie,kingston on indie
+893,ontario-indie,ontario indie
+894,dangdut-remix,dangdut remix
+895,slowed-and-reverb,slowed and reverb
+896,drill,drill
+897,alabama-rap,alabama rap
+898,polish-alternative,polish alternative
+899,new-wave-pop,new wave pop
+900,grupera,grupera
+901,disney-espanol,disney espanol
+902,gen-z-singer-songwriter,gen z singer-songwriter
+903,lds-youth,lds youth
+904,australian-alternative-pop,australian alternative pop
+905,rockabilly,rockabilly
+906,greenlandic-pop,greenlandic pop
+907,rock-alternativo-espanol,rock alternativo espanol
+908,spanish-indie-pop,spanish indie pop
+909,finnish-punk,finnish punk
+910,israeli-pop,israeli pop
+911,dutch-americana,dutch americana
+912,nordic-orchestra,nordic orchestra
+913,orchestra,orchestra
+914,radio-symphony,radio symphony
+915,salsa-puertorriquena,salsa puertorriquena
+916,polish-alternative-rock,polish alternative rock
+917,neo-synthpop,neo-synthpop
+918,baton-rouge-rap,baton rouge rap
+919,celtic-punk,celtic punk
+920,folk-punk,folk punk
+921,punk,punk
+922,ghanaian-pop,ghanaian pop
+923,bubblegum-dance,bubblegum dance
+924,junior-eurovision,junior eurovision
+925,jazz-pop,jazz pop
+926,lounge,lounge
+927,sophisti-pop,sophisti-pop
+928,latin-talent-show,latin talent show
+929,rap-maroc,rap maroc
+930,norske-viser,norske viser
+931,operatic-pop,operatic pop
+932,brill-building-pop,brill building pop
+933,easy-listening,easy listening
+934,american-folk-revival,american folk revival
+935,jazz-trio,jazz trio
+936,light-music,light music
+937,post-romantic-era,post-romantic era
+938,ukrainian-classical,ukrainian classical
+939,rock-and-roll,rock-and-roll
+940,deep-adult-standards,deep adult standards
+941,vocal-harmony-group,vocal harmony group
+942,folk-rock,folk rock
+943,experimental-rock,experimental rock
+944,experimental,experimental
+945,experimental-pop,experimental pop
+946,classic-uk-pop,classic uk pop
+947,disco,disco
+948,dansktop,dansktop
+949,rumba-congolaise,rumba congolaise
+950,indie-rock-italiano,indie rock italiano
+951,barnemusikk,barnemusikk
+952,swedish-jazz,swedish jazz
+953,lund-indie,lund indie
+954,azeri-rap,azeri rap
+955,ulkucu-sarkilar,ulkucu sarkilar
+956,new-wave,new wave
+957,torch-song,torch song
+958,vocal-jazz,vocal jazz
+959,canadian-country,canadian country
+960,oklahoma-country,oklahoma country
+961,country-rock,country rock
+962,hi-nrg,hi-nrg
+963,synthpop,synthpop
+964,bubblegum-pop,bubblegum pop
+965,desert-blues,desert blues
+966,kora,kora
+967,mande-pop,mande pop
+968,kindermusik,kindermusik
+969,classic-danish-rock,classic danish rock
+970,danish-singer-songwriter,danish singer-songwriter
+971,norwegian-jazz,norwegian jazz
+972,children-s-choir,children's choir
+973,finnish-choir,finnish choir
+974,muziek-voor-kinderen,muziek voor kinderen
+975,christmas-product,christmas product
+976,oslo-indie,oslo indie
+977,portuguese-rock,portuguese rock
+978,punk-tuga,punk tuga
+979,classical-tenor,classical tenor
+980,italian-tenor,italian tenor
+981,ectofolk,ectofolk
+982,lilith,lilith
+983,chanson,chanson
+984,ye-ye,ye ye
+985,rap-underground-espanol,rap underground espanol
+986,rap-portuense,rap portuense
+987,rap-tuga-underground,rap tuga underground
+988,sleep,sleep
+989,baglama,baglama
+990,roots-rock,roots rock
+991,chilean-hardcore,chilean hardcore
+992,classic-finnish-rock,classic finnish rock
+993,classic-polish-pop,classic polish pop
+994,acoustic-cover,acoustic cover
+995,psychedelic-rock,psychedelic rock
+996,sunshine-pop,sunshine pop
+997,cowboy-western,cowboy western
+998,traditional-country,traditional country
+999,yodeling,yodeling
+1000,classic-girl-group,classic girl group
+1001,progressive-rock,progressive rock
+1002,contemporary-vocal-jazz,contemporary vocal jazz
+1003,new-age,new age
+1004,choral,choral
+1005,doo-wop,doo-wop
+1006,rhythm-and-blues,rhythm and blues
+1007,beach-music,beach music
+1008,swing,swing
+1009,chill-pop,chill pop
+1010,scottish-singer-songwriter,scottish singer-songwriter
+1011,piano-blues,piano blues
+1012,detske-pisnicky,detske pisnicky
+1013,australian-alternative-rock,australian alternative rock
+1014,australian-rock,australian rock
+1015,arkansas-country,arkansas country
+1016,outlaw-country,outlaw country
+1017,soul-blues,soul blues
+1018,athens-indie,athens indie
+1019,folk,folk
+1020,big-band,big band
+1021,classic-country-pop,classic country pop
+1022,novelty,novelty
+1023,idol,idol
+1024,cancion-infantil-latinoamericana,cancion infantil latinoamericana
+1025,musica-para-ninos,musica para ninos
+1026,villancicos,villancicos
+1027,teen-pop,teen pop
+1028,christmas-instrumental,christmas instrumental
+1029,finnish-heavy-metal,finnish heavy metal
+1030,finnish-idol-pop,finnish idol pop
+1031,finnish-power-metal,finnish power metal
+1032,dixieland,dixieland
+1033,harlem-renaissance,harlem renaissance
+1034,jazz-trumpet,jazz trumpet
+1035,new-orleans-jazz,new orleans jazz
+1036,bebop,bebop
+1037,cool-jazz,cool jazz
+1038,jazz,jazz
+1039,jazz-saxophone,jazz saxophone
+1040,library-music,library music
+1041,stride,stride
+1042,classic-soundtrack,classic soundtrack
+1043,french-jazz,french jazz
+1044,french-soundtrack,french soundtrack
+1045,nouvelle-chanson-francaise,nouvelle chanson francaise
+1046,country-quebecois,country quebecois
+1047,italian-jazz,italian jazz
+1048,italian-lounge,italian lounge
+1049,chicago-soul,chicago soul
+1050,gospel-singers,gospel singers
+1051,norsk-lovsang,norsk lovsang
+1052,nordnorsk-musikk,nordnorsk musikk
+1053,gospel,gospel
+1054,spirituals,spirituals
+1055,classic-opm,classic opm
+1056,papuri,papuri
+1057,pinoy-praise,pinoy praise
+1058,tagalog-worship,tagalog worship
+1059,poezja-spiewana,poezja spiewana
+1060,polish-rock,polish rock
+1061,koledy,koledy
+1062,polish-contemporary-classical,polish contemporary classical
+1063,uwielbienie,uwielbienie
+1064,avant-garde-jazz,avant-garde jazz
+1065,contemporary-post-bop,contemporary post-bop
+1066,jazz-fusion,jazz fusion
+1067,jazz-guitar,jazz guitar
+1068,polish-synthpop,polish synthpop
+1069,goralski,goralski
+1070,polish-folk,polish folk
+1071,musica-infantil,musica infantil
+1072,musica-para-criancas,musica para criancas
+1073,nashville-sound,nashville sound
+1074,bossa-nova,bossa nova
+1075,brazilian-jazz,brazilian jazz
+1076,samba,samba
+1077,violao,violao
+1078,deep-soft-rock,deep soft rock
+1079,smooth-jazz,smooth jazz
+1080,c86,c86
+1081,acoustic-chill,acoustic chill
+1082,glee-club,glee club
+1083,musica-cabo-verdiana,musica cabo-verdiana
+1084,broadway,broadway
+1085,deep-talent-show,deep talent show
+1086,jazz-funk,jazz funk
+1087,balkan-hip-hop,balkan hip hop
+1088,turbo-folk,turbo folk
+1089,harlem-hip-hop,harlem hip hop
+1090,rock-keyboard,rock keyboard
+1091,dansk-comedy,dansk comedy
+1092,acid-house,acid house
+1093,deep-big-room,deep big room
+1094,french-synthpop,french synthpop
+1095,brisbane-indie,brisbane indie
+1096,kiwi-rock,kiwi rock
+1097,nz-singer-songwriter,nz singer-songwriter
+1098,uk-reggae,uk reggae
+1099,southern-rock,southern rock
+1100,swamp-rock,swamp rock
+1101,disco-polo,disco polo
+1102,british-invasion,british invasion
+1103,merseybeat,merseybeat
+1104,diva-house,diva house
+1105,variete-francaise,variete francaise
+1106,dutch-indie,dutch indie
+1107,hard-bass,hard bass
+1108,turkce-kadin-rap,turkce kadin rap
+1109,new-jack-swing,new jack swing
+1110,pop-electronico,pop electronico
+1111,tropical-alternativo,tropical alternativo
+1112,swedish-americana,swedish americana
+1113,australian-garage-punk,australian garage punk
+1114,australian-indie-rock,australian indie rock
+1115,hiplife,hiplife
+1116,york-indie,york indie
+1117,pinoy-trap,pinoy trap
+1118,chinderlieder,chinderlieder
+1119,schweizer-rap,schweizer rap
+1120,swiss-reggae,swiss reggae
+1121,bayerischer-rap,bayerischer rap
+1122,classic-indonesian-rock,classic indonesian rock
+1123,indonesian-rock,indonesian rock
+1124,pinoy-alternative-rap,pinoy alternative rap
+1125,traprun,traprun
+1126,groove-room,groove room
+1127,west-coast-trap,west coast trap
+1128,spiritual-hip-hop,spiritual hip hop
+1129,sacramento-hip-hop,sacramento hip hop
+1130,south-african-alternative,south african alternative
+1131,indie-hip-hop,indie hip hop
+1132,german-r-b,german r&b
+1133,karneval,karneval
+1134,kolsche-karneval,kolsche karneval
+1135,italian-ska,italian ska
+1136,firenze-indie,firenze indie
+1137,dancehall-guyanaise,dancehall guyanaise
+1138,shatta,shatta
+1139,zouk-riddim,zouk riddim
+1140,gothenburg-hip-hop,gothenburg hip hop
+1141,mexican-edm,mexican edm
+1142,viral-pop-brasileiro,viral pop brasileiro
+1143,rap-baiano,rap baiano
+1144,trap-baiano,trap baiano
+1145,deep-rai,deep rai
+1146,morelos-indie,morelos indie
+1147,boston-hip-hop,boston hip hop
+1148,ukrainian-pop,ukrainian pop
+1149,rkt,rkt
+1150,nantes-indie,nantes indie
+1151,kenyan-pop,kenyan pop
+1152,portuguese-indie,portuguese indie
+1153,comedy-rap,comedy rap
+1154,rap-romantico,rap romantico
+1155,trance-brasileiro,trance brasileiro
+1156,singaporean-hip-hop,singaporean hip hop
+1157,new-americana,new americana
+1158,comic,comic
+1159,anime,anime
+1160,ukg-revival,ukg revival
+1161,rap-espanol,rap espanol
+1162,norrlandsk-hip-hop,norrlandsk hip hop
+1163,chinese-jazz,chinese jazz
+1164,dark-clubbing,dark clubbing
+1165,soca,soca
+1166,dutch-r-b,dutch r&b
+1167,electronica,electronica
+1168,psychedelic-hip-hop,psychedelic hip hop
+1169,vlaamse-rap,vlaamse rap
+1170,channel-pop,channel pop
+1171,thai-idol,thai idol
+1172,drill-espanol,drill espanol
+1173,taiwanese-indie,taiwanese indie
+1174,gypsy-jazz,gypsy jazz
+1175,venezuelan-hip-hop,venezuelan hip hop
+1176,turkce-drill,turkce drill
+1177,tunisian-pop,tunisian pop
+1178,trap-venezolano,trap venezolano
+1179,brega-romantico,brega romantico
+1180,forro-de-favela,forro de favela
+1181,german-singer-songwriter,german singer-songwriter
+1182,rap-ivoire,rap ivoire
+1183,classic-cantopop,classic cantopop
+1184,r-b-italiano,r&b italiano
+1185,indonesian-viral-pop,indonesian viral pop
+1186,czech-pop,czech pop
+1187,greek-pop,greek pop
+1188,laiko,laiko
+1189,belgian-rock,belgian rock
+1190,lovers-rock,lovers rock
+1191,pop-teen-brasileiro,pop teen brasileiro
+1192,nz-christian,nz christian
+1193,lithuanian-pop,lithuanian pop
+1194,slovenian-pop,slovenian pop
+1195,uk-melodic-rap,uk melodic rap
+1196,uk-drill,uk drill
+1197,classic-belgian-pop,classic belgian pop
+1198,ragga-jungle,ragga jungle
+1199,experimental-r-b,experimental r&b
+1200,trip-hop,trip hop
+1201,trap-mexicano,trap mexicano
+1202,electroclash,electroclash
+1203,bachata-dominicana,bachata dominicana
+1204,metal,metal
+1205,romanian-rock,romanian rock
+1206,ethereal-gothic,ethereal gothic
+1207,pinoy-singer-songwriter,pinoy singer-songwriter
+1208,jump-blues,jump blues
+1209,funk-150-bpm,funk 150 bpm
+1210,finnish-drill,finnish drill
+1211,pop-virale-italiano,pop virale italiano
+1212,asian-american-hip-hop,asian american hip hop
+1213,polish-indie,polish indie
+1214,dream-smp,dream smp
+1215,brazilian-percussion,brazilian percussion
+1216,nova-musica-paulista,nova musica paulista
+1217,pinoy-pop-punk,pinoy pop punk
+1218,uppsala-indie,uppsala indie
+1219,oc-rap,oc rap
+1220,houston-rap,houston rap
+1221,post-punk,post-punk
+1222,uk-post-punk,uk post-punk
+1223,russian-hip-hop,russian hip hop
+1224,russian-alt-pop,russian alt pop
+1225,russian-trap,russian trap
+1226,belo-horizonte-indie,belo horizonte indie
+1227,arab-trap,arab trap
+1228,battle-rap,battle rap
+1229,rap-feminino-nacional,rap feminino nacional
+1230,musica-gaucha,musica gaucha
+1231,rock-nacional,rock nacional
+1232,swiss-rock,swiss rock
+1233,zouglou,zouglou
+1234,voetbal,voetbal
+1235,irish-hip-hop,irish hip hop
+1236,bases-de-freestyle,bases de freestyle
+1237,cumbia-ranchera,cumbia ranchera
+1238,indian-edm,indian edm
+1239,nottingham-hip-hop,nottingham hip hop
+1240,polish-post-punk,polish post-punk
+1241,gaming-dubstep,gaming dubstep
+1242,electro-bailando,electro bailando
+1243,dark-trap,dark trap
+1244,reggae-en-espanol,reggae en espanol
+1245,lo-star,lo star
+1246,sudanese-pop,sudanese pop
+1247,argentine-indie,argentine indie
+1248,trap-funk,trap funk
+1249,trap-chileno,trap chileno
+1250,musiikkia-lapsille,musiikkia lapsille
+1251,manguebeat,manguebeat
+1252,pop-rock-brasileiro,pop rock brasileiro
+1253,rock-mineiro,rock mineiro
+1254,rock-nacional-brasileiro,rock nacional brasileiro
+1255,cancion-melodica,cancion melodica
+1256,tejano,tejano
+1257,taiwan-classical-performance,taiwan classical performance
+1258,cologne-indie,cologne indie
+1259,rautalanka,rautalanka
+1260,australian-house,australian house
+1261,funk-bh,funk bh
+1262,musica-catalana,musica catalana
+1263,reggae-catala,reggae catala
+1264,chicago-drill,chicago drill
+1265,swiss-trap,swiss trap
+1266,cumbia-boliviana,cumbia boliviana
+1267,finnish-progressive-metal,finnish progressive metal
+1268,progressive-thrash,progressive thrash
+1269,taiwan-idol-pop,taiwan idol pop
+1270,classic-arab-pop,classic arab pop
+1271,lagu-timur,lagu timur
+1272,speedrun,speedrun
+1273,video-game-music,video game music
+1274,sung-poetry,sung poetry
+1275,polish-indie-rock,polish indie rock
+1276,jersey-club,jersey club
+1277,german-alternative-rock,german alternative rock
+1278,german-punk,german punk
+1279,russian-rave,russian rave
+1280,bandung-indie,bandung indie
+1281,indonesian-pop-punk,indonesian pop punk
+1282,australian-country,australian country
+1283,spanish-modern-rock,spanish modern rock
+1284,spanish-noise-pop,spanish noise pop
+1285,modern-alternative-pop,modern alternative pop
+1286,anthem-worship,anthem worship
+1287,ccm,ccm
+1288,christian-pop,christian pop
+1289,ska-mexicano,ska mexicano
+1290,norwegian-contemporary-jazz,norwegian contemporary jazz
+1291,electric-bass,electric bass
+1292,indie-jazz,indie jazz
+1293,kompa-gouyad,kompa gouyad
+1294,spanish-indie-folk,spanish indie folk
+1295,guatemalan-pop,guatemalan pop
+1296,zimdancehall,zimdancehall
+1297,chamber-orchestra,chamber orchestra
+1298,musica-capixaba,musica capixaba
+1299,rap-capixaba,rap capixaba
+1300,dubstep,dubstep
+1301,alternative-pop-rock,alternative pop rock
+1302,native-american,native american
+1303,native-american-contemporary,native american contemporary
+1304,children-s-music,children's music
+1305,dong-yo,dong-yo
+1306,drill-italiana,drill italiana
+1307,lithuanian-edm,lithuanian edm
+1308,lithuanian-electronic,lithuanian electronic
+1309,taiwan-electronic,taiwan electronic
+1310,welsh-rock,welsh rock
+1311,sad-lo-fi,sad lo-fi
+1312,aussie-drill,aussie drill
+1313,rap-chileno,rap chileno
+1314,melodic-metalcore,melodic metalcore
+1315,metalcore,metalcore
+1316,uk-metalcore,uk metalcore
+1317,canadian-old-school-hip-hop,canadian old school hip hop
+1318,peruvian-rock,peruvian rock
+1319,violin,violin
+1320,italian-progressive-rock,italian progressive rock
+1321,italian-post-hardcore,italian post-hardcore
+1322,beat-italiano,beat italiano
+1323,british-indie-rock,british indie rock
+1324,central-asian-hip-hop,central asian hip hop
+1325,kazakh-hip-hop,kazakh hip hop
+1326,kazakh-pop,kazakh pop
+1327,russian-gangster-rap,russian gangster rap
+1328,polish-blues,polish blues
+1329,deconstructed-club,deconstructed club
+1330,tech-house,tech house
+1331,nordic-folk-metal,nordic folk metal
+1332,scorecore,scorecore
+1333,korean-mask-singer,korean mask singer
+1334,chinese-soundtrack,chinese soundtrack
+1335,danish-electropop,danish electropop
+1336,lo-fi,lo-fi
+1337,new-jersey-indie,new jersey indie
+1338,noise-pop,noise pop
+1339,glasgow-indie,glasgow indie
+1340,scottish-indie-rock,scottish indie rock
+1341,turkish-reggae,turkish reggae
+1342,scam-rap,scam rap
+1343,uk-tech-house,uk tech house
+1344,boston-punk,boston punk
+1345,boston-rock,boston rock
+1346,skate-punk,skate punk
+1347,celtic,celtic
+1348,irish-folk,irish folk
+1349,banjo,banjo
+1350,irish-banjo,irish banjo
+1351,irish-country,irish country
+1352,portuguese-indie-rock,portuguese indie rock
+1353,brooklyn-drill,brooklyn drill
+1354,italian-electronica,italian electronica
+1355,neomelodici,neomelodici
+1356,emo-trap-en-espanol,emo trap en espanol
+1357,rap-underground-argentino,rap underground argentino
+1358,german-metal,german metal
+1359,industrial,industrial
+1360,industrial-metal,industrial metal
+1361,industrial-rock,industrial rock
+1362,neue-deutsche-harte,neue deutsche harte
+1363,austrian-indie,austrian indie
+1364,boom-bap-brasileiro,boom bap brasileiro
+1365,rap-uruguayo,rap uruguayo
+1366,samba-de-roda,samba de roda
+1367,tropicalia,tropicalia
+1368,slovak-pop,slovak pop
+1369,perth-indie,perth indie
+1370,trap-metal-italiana,trap metal italiana
+1371,fidget-house,fidget house
+1372,british-alternative-rock,british alternative rock
+1373,minnesota-hip-hop,minnesota hip hop
+1374,chihuahua-indie,chihuahua indie
+1375,indie-triste,indie triste
+1376,mexican-indie,mexican indie
+1377,circuit,circuit
+1378,guaracha,guaracha
+1379,nasheed,nasheed
+1380,nasyid,nasyid
+1381,cumbia-santafesina,cumbia santafesina
+1382,progressive-trance,progressive trance
+1383,uplifting-trance,uplifting trance
+1384,maltese-pop,maltese pop
+1385,musica-baiana,musica baiana
+1386,icelandic-electronic,icelandic electronic
+1387,icelandic-post-punk,icelandic post-punk
+1388,icelandic-punk,icelandic punk
+1389,australian-singer-songwriter,australian singer-songwriter
+1390,russian-dance-pop,russian dance pop
+1391,greek-indie,greek indie
+1392,hip-hop-quebecois,hip hop quebecois
+1393,indie-quebecois,indie quebecois
+1394,electronica-argentina,electronica argentina
+1395,christian-music,christian music
+1396,worship,worship
+1397,mambo-chileno,mambo chileno
+1398,terrorcore,terrorcore
+1399,malang-indie,malang indie
+1400,strut,strut
+1401,danish-post-punk,danish post-punk
+1402,bangladeshi-hip-hop,bangladeshi hip hop
+1403,country-rap,country rap
+1404,argentine-reggae,argentine reggae
+1405,chanson-virale,chanson virale
+1406,rap-lyonnais,rap lyonnais
+1407,trap-carioca,trap carioca
+1408,belgian-singer-songwriter,belgian singer-songwriter
+1409,ghent-indie,ghent indie
+1410,rap-mineiro,rap mineiro
+1411,indonesian-lo-fi-pop,indonesian lo-fi pop
+1412,uk-house,uk house
+1413,classic-peruvian-pop,classic peruvian pop
+1414,musica-afroperuana,musica afroperuana
+1415,musica-criolla,musica criolla
+1416,rave-funk,rave funk
+1417,malian-blues,malian blues
+1418,wassoulou,wassoulou
+1419,world,world
+1420,kids-hip-hop,kids hip hop
+1421,washington-indie,washington indie
+1422,gospel-r-b,gospel r&b
+1423,cumbia-peruana,cumbia peruana
+1424,peruvian-indie,peruvian indie
+1425,reggae-peruano,reggae peruano
+1426,tecnobrega,tecnobrega
+1427,progressive-metal,progressive metal
+1428,swedish-underground-rap,swedish underground rap
+1429,r-b-argentino,r&b argentino
+1430,merida-indie,merida indie
+1431,dutch-drill,dutch drill
+1432,taiwan-rock,taiwan rock
+1433,bomba,bomba
+1434,estonian-hip-hop,estonian hip hop
+1435,big-beat,big beat
+1436,barnmusik,barnmusik
+1437,garage-house,garage house
+1438,antilliaanse-rap,antilliaanse rap
+1439,birmingham-metal,birmingham metal
+1440,north-east-england-indie,north east england indie
+1441,hamburg-indie,hamburg indie
+1442,boom-bap-espanol,boom bap espanol
+1443,malaysian-tamil-pop,malaysian tamil pop
+1444,bulgarian-hip-hop,bulgarian hip hop
+1445,morna,morna
+1446,drill-dominicano,drill dominicano
+1447,afghan-rap,afghan rap
+1448,finnish-folk,finnish folk
+1449,canzone-d-autore,canzone d'autore
+1450,acoustic-opm,acoustic opm
+1451,polish-ambient,polish ambient
+1452,norwegian-choir,norwegian choir
+1453,hong-kong-hip-hop,hong kong hip hop
+1454,desi-hip-hop,desi hip hop
+1455,pakistani-hip-hop,pakistani hip hop
+1456,punjabi-hip-hop,punjabi hip hop
+1457,punjabi-pop,punjabi pop
+1458,vlaamse-kinderliedje,vlaamse kinderliedje
+1459,pittsburgh-indie,pittsburgh indie
+1460,latintronica,latintronica
+1461,greek-hip-hop,greek hip hop
+1462,smooth-saxophone,smooth saxophone
+1463,rhode-island-rap,rhode island rap
+1464,mexican-classic-rock,mexican classic rock
+1465,german-house,german house
+1466,ska-chileno,ska chileno
+1467,musica-andina,musica andina
+1468,musica-andina-chilena,musica andina chilena
+1469,musica-nublensina,musica nublensina
+1470,czech-hip-hop,czech hip hop
+1471,czsk-hip-hop,czsk hip hop
+1472,trap-pesado,trap pesado
+1473,chill-baile,chill baile
+1474,liedermacher,liedermacher
+1475,german-country,german country
+1476,vogue,vogue
+1477,finnish-jazz,finnish jazz
+1478,piseiro,piseiro
+1479,musica-costarricense,musica costarricense
+1480,turkce-trap-metal,turkce trap metal
+1481,samba-moderno,samba moderno
+1482,jewish-pop,jewish pop
+1483,cincinnati-rap,cincinnati rap
+1484,folclor-colombiano,folclor colombiano
+1485,musica-andina-colombiana,musica andina colombiana
+1486,adoracao,adoracao
+1487,musica-paranaense,musica paranaense
+1488,rap-nacional-antigo,rap nacional antigo
+1489,argentine-alternative-rock,argentine alternative rock
+1490,bedroom-soul,bedroom soul
+1491,austrian-hip-hop,austrian hip hop
+1492,norwegian-gospel,norwegian gospel
+1493,carnaval-limburg,carnaval limburg
+1494,lo-fi-beats,lo-fi beats
+1495,lo-fi-chill,lo-fi chill
+1496,deep-underground-hip-hop,deep underground hip hop
+1497,muzica-crestina,muzica crestina
+1498,rap-boricua,rap boricua
+1499,dutch-idol-pop,dutch idol pop
+1500,kent-indie,kent indie
+1501,new-york-drill,new york drill
+1502,orlando-indie,orlando indie
+1503,gothic-symphonic-metal,gothic symphonic metal
+1504,opera-metal,opera metal
+1505,power-metal,power metal
+1506,indie-rockism,indie rockism
+1507,bergamo-indie,bergamo indie
+1508,musica-etnica,musica etnica
+1509,australian-psych,australian psych
+1510,neo-psychedelic,neo-psychedelic
+1511,bubblegrunge,bubblegrunge
+1512,uae-indie,uae indie
+1513,deep-breakcore,deep breakcore
+1514,cyber-metal,cyber metal
+1515,swedish-folk-pop,swedish folk pop
+1516,korean-ost,korean ost
+1517,k-indie,k-indie
+1518,groove-metal,groove metal
+1519,huzunlu-sarkilar,huzunlu sarkilar
+1520,musica-madeirense,musica madeirense
+1521,bergen-indie,bergen indie
+1522,chillwave,chillwave
+1523,j-division,j-division
+1524,psychedelic-soul,psychedelic soul
+1525,pop-romantico,pop romantico
+1526,reggae-maghreb,reggae maghreb
+1527,minneapolis-sound,minneapolis sound
+1528,k-rock,k-rock
+1529,beats,beats
+1530,trap-beats,trap beats
+1531,lapland-hip-hop,lapland hip hop
+1532,tecnobanda,tecnobanda
+1533,copla,copla
+1534,spanish-new-wave,spanish new wave
+1535,cante-flamenco,cante flamenco
+1536,popping,popping
+1537,pop-folk,pop folk
+1538,christian-alternative-rock,christian alternative rock
+1539,world-worship,world worship
+1540,icelandic-pop,icelandic pop
+1541,sunnlensk-tonlist,sunnlensk tonlist
+1542,relaxative,relaxative
+1543,vintage-french-electronic,vintage french electronic
+1544,dub,dub
+1545,taiwan-graduation-song,taiwan graduation song
+1546,campursari,campursari
+1547,ghanaian-alternative,ghanaian alternative
+1548,vintage-norwegian-pop,vintage norwegian pop
+1549,norwegian-classical,norwegian classical
+1550,eventyr,eventyr
+1551,icelandic-choir,icelandic choir
+1552,early-modern-classical,early modern classical
+1553,swedish-classical,swedish classical
+1554,classical-era,classical era
+1555,danish-classical,danish classical
+1556,early-romantic-era,early romantic era
+1557,hamburg-electronic,hamburg electronic
+1558,transpop,transpop
+1559,jawaiian,jawaiian
+1560,roda-de-samba,roda de samba
+1561,indie-curitibano,indie curitibano
+1562,belarusian-indie,belarusian indie
+1563,indonesian-edm,indonesian edm
+1564,dream-trance,dream trance
+1565,bisaya-rap,bisaya rap
+1566,dalarna-indie,dalarna indie
+1567,swedish-garage-rock,swedish garage rock
+1568,alberta-hip-hop,alberta hip hop
+1569,flamenco-guitar,flamenco guitar
+1570,tallava,tallava
+1571,indonesian-emo,indonesian emo
+1572,musiikkia-lapista,musiikkia lapista
+1573,tin-pan-alley,tin pan alley
+1574,eau-claire-indie,eau claire indie
+1575,classic-greek-pop,classic greek pop
+1576,indonesian-emo-rap,indonesian emo rap
+1577,rap-underground-mexicano,rap underground mexicano
+1578,belgian-new-wave,belgian new wave
+1579,pinoy-idol-pop,pinoy idol pop
+1580,tamil-pop,tamil pop
+1581,vintage-chinese-pop,vintage chinese pop
+1582,lo-fi-cover,lo-fi cover
+1583,lo-fi-product,lo-fi product
+1584,swedish-indie-folk,swedish indie folk
+1585,emo-trap-italiana,emo trap italiana
+1586,rap-baixada-fluminense,rap baixada fluminense
+1587,modern-indie-pop,modern indie pop
+1588,musica-popular-uruguaya,musica popular uruguaya
+1589,korean-city-pop,korean city pop
+1590,alternative-country,alternative country
+1591,guinean-pop,guinean pop
+1592,swiss-pop,swiss pop
+1593,latin-viral-rap,latin viral rap
+1594,rap-anime,rap anime
+1595,classic-nz-pop,classic nz pop
+1596,finnish-post-punk,finnish post-punk
+1597,musique-comorienne,musique comorienne
+1598,canadian-latin,canadian latin
+1599,peruvian-hip-hop,peruvian hip hop
+1600,aesthetic-rap,aesthetic rap
+1601,drill-brasileiro,drill brasileiro
+1602,funk-viral,funk viral
+1603,nueva-trova-chilena,nueva trova chilena
+1604,latin-funk,latin funk
+1605,musica-nortena-chilena,musica nortena chilena
+1606,deep-latin-alternative,deep latin alternative
+1607,halloween,halloween
+1608,comic-metal,comic metal
+1609,idol-rock,idol rock
+1610,j-metal,j-metal
+1611,kawaii-metal,kawaii metal
+1612,black-punk,black punk
+1613,uk-diy-punk,uk diy punk
+1614,ottawa-rap,ottawa rap
+1615,anime-rock,anime rock
+1616,j-pixie,j-pixie
+1617,wave,wave

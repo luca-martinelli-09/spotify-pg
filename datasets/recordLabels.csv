@@ -1,0 +1,1121 @@
+,id,name,country
+0,Q55316128,Quality Control Music,US
+1,Q43327,Motown,US
+2,Q193023,Capitol Records,US
+3,Q16206954,300 Entertainment,US
+4,Q202440,Atlantic Records,US
+5,Q1194456,Roc Nation,US
+6,Q16070339,OVO Sound,CA
+7,Q1070152,Young Money Entertainment,US
+8,Q1047366,Cash Money Records,US
+9,Q4413456,Republic Records,US
+10,Q4005789,Universal Motown Records,US
+11,Q23045455,XO,CA
+12,Q847971,Soma Quality Recordings,GB
+13,Q203059,Virgin Records,GB
+14,Q183387,Columbia Records,US
+15,Q54860,Walt Disney Records,US
+16,Q1200368,Astralwerks,US
+17,Q13218788,Virgin EMI Records,GB
+18,Q231694,Interscope Records,US
+19,Q44120211,Ear Drummer Records,
+20,Q4546285,1017 Records,US
+21,Q1998195,Asylum Records,US
+22,Q1644016,Tommy Boy Records,US
+23,Q2937480,Capitol Music Group,US
+24,Q202585,RCA Records,US
+25,Q4667782,Star Music,PH
+26,Q155152,Polydor Records,GB
+27,Q212699,Geffen Records,US
+28,Q15116528,Mad Decent,US
+29,Q2310883,Spinnin' Records,NL
+30,Q190585,Island Records,JM
+31,Q601227,RBMG Records,US
+32,Q7432151,School Boy Records,US
+33,Q654283,Def Jam Recordings,US
+34,Q1142456,GOOD Music,US
+35,Q726251,Elektra,US
+36,Q798658,Bad Boy Records,US
+37,Q216364,Epic Records,US
+38,Q7659636,Syco Music,GB
+39,Q106253837,Slaughter Gang,US
+40,Q16993809,Freebandz,US
+41,Q80186545,A1 Recordings,US
+42,Q2902300,Big Machine Records,US
+43,Q277626,A&M Records,US
+44,Q645889,Reprise Records,US
+45,Q16957703,Top Dawg Entertainment,US
+46,Q389284,Aftermath Entertainment,US
+47,Q18352611,Dreamville Records,US
+48,Q330629,Sony Music,
+49,Q38903,Universal Music Group,US
+50,Q21090,OWSLA,US
+51,Q23008275,STMPD RCRDS,NL
+52,Q947109,The Island Def Jam Music Group,US
+53,Q2291171,DCD2 Records,US
+54,Q843402,Warner Bros. Records,US
+55,Q208909,Parlophone,GB
+56,Q64485314,Warner Records,US
+57,Q27184,Jive Records,US
+58,Q219112,Zomba Group of Companies,US
+59,Q1076747,Tennman Records,US
+60,Q947422,Taylor Gang Entertainment,US
+61,Q1046066,Fueled by Ramen,US
+62,Q44120426,Westbury Road Entertainment,
+63,Q183412,EMI,GB
+64,Q16838702,Fly Eye Records,GB
+65,Q65120473,YSL Records,US
+66,Q1153338,Grand Hustle Records,US
+67,Q56160091,Cactus Jack Records,US
+68,Q1759608,Secretly Canadian,US
+69,Q29096957,EP Entertainment,US
+70,Q1123947,XL Recordings,GB
+71,Q56760250,Sony Music,US
+72,Q3972237,Steeltown Records,US
+73,Q31839,Philadelphia International Records,US
+74,Q1703395,Dim Mak Records,US
+75,Q664167,Arista,US
+76,Q3001888,Sony BMG,US
+77,Q2358400,Legacy Recordings,US
+78,Q21077,Warner Music Group,US
+79,Q17985937,Black Butter Records,GB
+80,Q1190562,VP Records,US
+81,Q1250403,Scepter Records,US
+82,Q4010207,Rostrum Records,US
+83,Q19880695,KIDinaKORNER,US
+84,Q55315890,Visionary Music Group,US
+85,Q1061903,Live Nation Entertainment,
+86,Q121698,J Records,US
+87,Q7537474,Sky Records,DE
+88,Q3109712,Star Trak Entertainment,US
+89,Q15995150,I Am Other,
+90,Q165745,Mercury Records,US
+91,Q6951530,N.E.E.T. Recordings,US
+92,Q3639792,Big Beat Records,US
+93,Q59117938,Ultra Records,US
+94,Q5924272,Jack Back Records,
+95,Q3629023,EMI Records,GB
+96,Q387539,Hollywood Records,US
+97,Q55965015,EMI,GB
+98,Q55975597,Friends Keep Secrets,
+99,Q63284857,Pelican Fly,BE
+100,Q6697804,LuckyMe,GB
+101,Q4354637,Warner Music Canada,CA
+102,Q3071544,Positiva,GB
+103,Q847018,Death Row Records,US
+104,Q6724230,Mack Life Records,
+105,Q2690060,Iamsound Records,US
+106,Q6660510,Lizard King Records,GB
+107,Q1330417,Vertigo,GB
+108,Q2668070,eleveneleven,US
+109,Q2535085,Barclay,FR
+110,Q641445,Copenhagen Records,DK
+111,Q21922802,Anchor Point,AU
+112,Q975480,Jakarta Records,DE
+113,Q84826672,AWGE Records,US
+114,Q7355459,Rockland Records,US
+115,Q1899781,DreamWorks Records,US
+116,Q16959632,Innervision Records,GB
+117,Q2484080,3 Beat Records,GB
+118,Q2740367,Because Music,FR
+119,Q3298975,EMI Latin,US
+120,Q3720876,El Cartel Records,
+121,Q3244698,Sony Music Latin,US
+122,Q56697270,Dimelo Vi,US
+123,Q4043543,Machete Music,US
+124,Q427326,Fonovisa Records,US
+125,Q1025106,Universal Republic Records,US
+126,Q7225891,Polo Grounds Music,US
+127,Q4840215,Bad Boy Latino,US
+128,Q6928366,Mr. 305 Inc.,US
+129,Q2283665,TVT Records,US
+130,Q92322334,Saban Music Group,
+131,Q7277056,RMM Records & Video,US
+132,Q7101695,Orfanato Music Group,US
+133,Q2606741,Slash Records,US
+134,Q61787856,Capitol Latin,
+135,Q5529760,Gee Street Records,GB
+136,Q2100905,Poker Flat Recordings,DE
+137,Q1088453,Chrysalis Records,GB
+138,Q79060122,Real Hasta la Muerte,PR
+139,Q2095364,Pina Records,
+140,Q50377916,Hear This Music,US
+141,Q240804,Mute Records,GB
+142,Q50074604,RCA,
+143,Q21006848,NoCopyrightSounds,GB
+144,Q59157222,MER Musikk,NO
+145,Q160732,Armada,NL
+146,Q21029768,Spinnin' Deep,NL
+147,Q3964488,Som Livre,BR
+148,Q12871969,Panik Records,GR
+149,Q1688849,TopNotch,NL
+150,Q10566520,Energy TV,CH
+151,Q67030918,Warner Records Inc.,US
+152,Q2050200,S-Curve Records,US
+153,Q7074843,Obese Records,AU
+154,Q19903805,Wonderlick Entertainment,AU
+155,Q165711,Sire,US
+156,Q4870097,Battle Records,US
+157,Q497149,Checker,US
+158,Q10393219,Warner Music Brazil,BR
+159,Q568367,Studio One,JM
+160,Q56879086,Sony Music Entertainment Brasil Ltda.,BR
+161,Q11173360,Revealed Recordings,NL
+162,Q10398667,Monstercat,CA
+163,Q28406843,bitbird,NL
+164,Q4905065,Big Beat Records,
+165,Q2282920,Poe Boy Entertainment,US
+166,Q11332722,Feria Music,CL
+167,Q720115,Mas Flow Inc.,US
+168,Q1729668,WY Records,US
+169,Q7969736,Warner Music Latina,US
+170,Q5281702,Discos Fuentes,CO
+171,Q5776074,Codiscos,CO
+172,Q3551294,Universal Motown Republic Group,US
+173,Q7995021,White Lion Records,US
+174,Q368535,Four Music,DE
+175,Q707732,Motor Music,DE
+176,Q3177666,Work Group,US
+177,Q1402435,Giant Records,US
+178,Q2718029,Hydra Head Records,US
+179,Q9207744,disco:wax,DK
+180,Q1906958,Mascot Records,NL
+181,Q2482872,Universal Records,US
+182,Q10965540,Nexus Music,DK
+183,Q7673590,Tabu Records,DK
+184,Q557632,Decca,GB
+185,Q1124849,Verve Records,US
+186,Q57027012,Universal Music,US
+187,Q1546001,Stax,US
+188,Q340026,Ace Records,US
+189,Q5086379,Charly Records,GB
+190,Q1973145,Federal Records,US
+191,Q3566715,Wati B,FR
+192,Q2407338,Vale Music,ES
+193,Q3505442,Monarc Entertainment,US
+194,Q39058514,Butterfly MC Records,
+195,Q1536003,Philips Records,NL
+196,Q9004108,Hispavox,ES
+197,Q7894020,Universal Music Latin Entertainment,US
+198,Q2573393,Ultra Music,GB
+199,Q56826329,Sony BMG Music Entertainment,
+200,Q20966672,Sony Music Finland,FI
+201,Q11862199,Helsinki Freedom Records,FI
+202,Q20871899,Liiga Music,FI
+203,Q666981,Rähinä Records,SO
+204,Q11890138,Ratas Music Group,FI
+205,Q10831860,Warner Music Finland,FI
+206,Q11902587,Yellowmic Records,FI
+207,Q4356071,Monsp Records,FI
+208,Q6216391,Johanna Kustannus,FI
+209,Q21143692,Smash the House,BE
+210,Q13099454,2101 Records,US
+211,Q27556842,Bonnier Amigo Music Group,
+212,Q28032852,Seine Zoo Records,
+213,Q3514539,Tallac Records,FR
+214,Q898618,Sun Records,US
+215,Q466649,American Recordings,US
+216,Q52716606,Initial Artist Services,FR
+217,Q732503,Sony Music Entertainment Japan,JP
+218,Q20822757,[PIAS],FR
+219,Q5465592,Fool's Gold Records,US
+220,Q24248464,Barong Family,NL
+221,Q12522364,Trinity Optima Production,ID
+222,Q483938,SM Entertainment,KR
+223,Q1988428,Avex Trax,JP
+224,Q48815775,88rising,US
+225,Q50595,YG Entertainment,KR
+226,Q19740475,Sony BMG Music Entertainment Indonesia,ID
+227,Q3980900,Tanta Roba,IT
+228,Q3639016,Best Sound,IT
+229,Q18353143,Newtopia,IT
+230,Q3660623,Carosello,IT
+231,Q21091,Cherrytree Records,US
+232,Q946523,KonLive Distribution,US
+233,Q106369984,Lizos Music,MX
+234,Q6132299,Sonolux,CO
+235,Q1765315,Beluga Heights Records,US
+236,Q1081874,Slip-n-Slide Records,US
+237,Q513712,Pony Canyon,JP
+238,Q11196729,Def Jam Japan,
+239,Q106296918,Big Hit Music,KR
+240,Q62513113,Wilde Westen Records,NL
+241,Q30594847,Believe Digital,FR
+242,Q1358159,Polar,SE
+243,Q78512988,Polar Music International AB,SE
+244,Q56871938,Vogue,FR
+245,Q1767094,Tonpress,PL
+246,Q778792,RSO Records,GB
+247,Q1636655,Melodiya,RU
+248,Q49462460,CBS,NL
+249,Q101486501,Dynamic Sounds Studio,JM
+250,Q96761070,Carnaby Music,
+251,Q323890,Amiga,DD
+252,Q780223,Unidisc Music,CA
+253,Q2537051,WEA,
+254,Q700359,PolyGram,DE
+255,Q18636329,PolyGram Polska,
+256,Q1290388,Karussell,DE
+257,Q2617185,Opus,
+258,Q3707422,Dig-It,IT
+259,Q1718083,K-tel,CA
+260,Q603117,Castle Communications,GB
+261,Q3126163,Hallmark Records,GB
+262,Q7226016,"Polskie Nagrania ""Muza""",PL
+263,Q105763636,Team Mariann Compilation,SE
+264,Q3382510,Pickwick,US
+265,Q7697852,Telstar,GB
+266,Q2185711,Dino Entertainment,
+267,Q2630076,Tower Records,US
+268,Q3757844,Gallo Record Company,ZA
+269,Q818134,PGP-RTB,YU
+270,Q28736417,self-released,
+271,Q4451213,Vene Music,US
+272,Q7894019,Universal Music Enterprises,US
+273,Q13546739,World Music Network,GB
+274,Q4834989,BBC Transcription Services,
+275,Q3648529,CAR Juke Box,IT
+276,Q3415083,RCA Victor,
+277,Q4994492,Playboy Records,US
+278,Q108779219,United States Department of Defense,
+279,Q4851113,Balkanton,BG
+280,Q108294619,Universal Music Denmark,DK
+281,Q553858,Disques Vogue,FR
+282,Q108775919,Aftonbladet,SE
+283,Q1062659,Lantis,JP
+284,Q3024008,Derrty Entertainment,US
+285,Q1849138,Nonesuch,US
+286,Q4732512,Allido Records,US
+287,Q6386991,Kemosabe Records,US
+288,Q7937485,Viva Records,PH
+289,Q831335,Bethlehem Records,US
+290,Q1533331,Go! Discs,GB
+291,Q19546,pope,VA
+292,Q6555876,Lionheart Music Group,SE
+293,Q1134531,Metronome,SE
+294,Q10915648,Sony Music Taiwan,TW
+295,Q11102802,JVR Music International Ltd.,
+296,Q5578903,Gold Typhoon,CN
+297,Q6044516,İdobay Müzik,TR
+298,Q6075854,Doğan Music Company,TR
+299,Q6052368,Raks Müzik,TR
+300,Q6092740,Seyhan Müzik,TR
+301,Q20471638,Esen Müzik,TR
+302,Q19610562,Arpej Yapım,TR
+303,Q6078167,Avrupa Müzik,TR
+304,Q6052919,Şahin Özer Music,TR
+305,Q65032646,Nesër Music,AL
+306,Q796316,BMG Rights Management,DE
+307,Q568246,Shady Records,US
+308,Q2708269,WEB Entertainment,US
+309,Q6067615,Emre Plak,TR
+310,Q7376436,Rubyworks Records,IE
+311,Q790686,Avex Group,JP
+312,Q4828438,Avex Taiwan,
+313,Q7284620,Rainbow Entertainment,JP
+314,Q483238,JYP Entertainment,KR
+315,Q2807950,14th Floor Records,GB
+316,Q605512,Maybach Music Group,US
+317,Q5494088,Dualtone Records,US
+318,Q2079912,Dine Alone Records,CA
+319,Q42201,independent music,
+320,Q182742,ersguterjunge,DE
+321,Q576296,HMC,FI
+322,Q13403111,PME Records,FI
+323,Q3547034,Tôt ou tard,FR
+324,Q1358555,Ninja Tune,GB
+325,Q15720481,Capitol Music France,FR
+326,Q4771243,Antenna,KR
+327,Q837222,Candid Records,US
+328,Q2749562,EmArcy Records,DE
+329,Q23087,Ministry of Sound,GB
+330,Q3544661,Universal Records,PH
+331,Q5242498,Dawn Raid Entertainment,
+332,Q238095,4AD,GB
+333,Q2589723,FatCat Records,GB
+334,Q168407,Deutsche Grammophon,DE
+335,Q881469,Blanco y Negro,GB
+336,Q220861,Kontor Records,DE
+337,Q2260605,Scorpio Music,
+338,Q2090523,Armind,
+339,Q4033154,A State of Trance,
+340,Q2743409,All Around the World Productions,GB
+341,Q57169698,Who’s Afraid of 138?!,
+342,Q883485,Vandit,DE
+343,Q17085404,AWAL,GB
+344,Q2818689,92I,
+345,Q255363,Starship Entertainment,KR
+346,Q880314,Black Hole Recordings,NL
+347,Q6731087,Magik Muzik,NL
+348,Q6541940,SongBird,NL
+349,Q1973834,Play It Again Sam,BE
+350,Q3868643,Musical Freedom,NL
+351,Q27862208,AFTR:HRS,NL
+352,Q6049713,Dokuz Sekiz Müzik,TR
+353,Q2172834,Motéma Music,US
+354,Q11188596,A-Sketch,
+355,Q719628,Amuse,JP
+356,Q1238400,Domino Recording Company,GB
+357,Q158886,Nuclear Blast,DE
+358,Q20723082,Universal Music France,
+359,Q4829895,Aware Records,US
+360,Q874433,Warner Music Japan,JP
+361,Q3976712,Sugar Music,IT
+362,Q3747293,Fonit Cetra,IT
+363,Q43380,CBS,US
+364,Q10854462,CJ E&M,
+365,Q15509774,Mystic Story,KR
+366,Q1338446,LaFace Records,US
+367,Q106089679,Tarsier Records,
+368,Q1273666,Entertainment One Music,US
+369,Q669132,We the Best Music Group,US
+370,Q1124061,Concord Records,US
+371,Q3631345,Axtone Records,SE
+372,Q770103,Bertelsmann Music Group,DE
+373,Q1029135,Nettwerk,
+374,Q662575,Ariola,DE
+375,Q20049891,Movieplay,ES
+376,Q4043197,Universal Music Group Nashville,US
+377,Q7280875,Radio Killa Records,US
+378,Q15548291,Young,GB
+379,Q5281021,Dirty Hit,GB
+380,Q669127,Vagrant Records,US
+381,Q5216047,Dangerbird Records,US
+382,Q523563,Edel Records,DE
+383,Q24337589,Auf!Keinen!Fall!,DE
+384,Q51954444,Universal Urban,
+385,Q106643113,Stay High,DE
+386,Q311439,ECM Records,DE
+387,Q473873,Vevo,
+388,Q1536095,Regain Records,SE
+389,Q254539,Pamplin Music,US
+390,Q1753057,Tuff Gong,JM
+391,Q5045044,Caroline Distribution,US
+392,Q18149651,Empire Distribution,US
+393,Q4052630,Velvet Music,RU
+394,Q19835183,Banger Musik,DE
+395,Q9371062,Warner Music Germany,DE
+396,Q73048451,Tha Alumni Music Group,US
+397,Q73049030,88 Classic,US
+398,Q429296,MBK Entertainment,KR
+399,Q3983150,Tempi Duri,IT
+400,Q3923944,Propaganda Records,IT
+401,Q2081881,Megarave records,NL
+402,Q2285595,Offensive Records,NL
+403,Q56425411,Nora Collective,NO
+404,Q21856203,Safehouse Records,US
+405,Q47178816,Petroleum Records,NO
+406,Q14192383,19 Recordings,GB
+407,Q6042587,GNL Entertainment,TR
+408,Q126039,Beggars Banquet Records,GB
+409,Q7138835,Parkwood Entertainment,US
+410,Q14566650,Music World Entertainment,US
+411,Q1153032,Roc-A-Fella Records,US
+412,Q1025919,Machine Shop Records,US
+413,Q885833,Blue Note,US
+414,Q1128607,Contemporary Records,US
+415,Q1811175,Prestige,US
+416,Q489428,DSP Media,KR
+417,Q935090,London Recordings,GB
+418,Q909310,Regal Recordings,GB
+419,Q2818028,679 Artists,GB
+420,Q247212,604 Records,CA
+421,Q7824625,Top Stop Music,US
+422,Q51621503,Purple Money,FR
+423,Q5513722,GMA Records,PH
+424,Q7600793,Star Magic,PH
+425,Q3031775,Roxy Recordings,
+426,Q2002177,Lava Records,US
+427,Q24930239,Din Records,
+428,Q534492,AZ,FR
+429,Q1765119,Selfmade Records,DE
+430,Q20978620,The Fried Music,FI
+431,Q30037340,Soulistic Music,
+432,Q4352944,550 Music,US
+433,Q5009264,CBS Records International,US
+434,Q10366566,Sony Music Canada,CA
+435,Q19612905,Universal Müzik,TR
+436,Q3415062,RAS Records,US
+437,Q585643,Atco Records,US
+438,Q6515797,Leedon,AU
+439,Q1199011,Doggy Style Records,US
+440,Q7921413,RCA Inspiration,US
+441,Q1815770,No Limit Records,US
+442,Q522618,Priority Records,US
+443,Q474627,Amphetamine Reptile Records,US
+444,Q86820154,1111Klubb,NO
+445,Q11956488,NMG/G-Huset,NO
+446,Q180277,Hansa Records,
+447,Q5206081,DRT Entertainment,US
+448,Q2660489,Playground Music Scandinavia,SE
+449,Q7138178,Park the Van,US
+450,Q2265719,I.R.S. Records,US
+451,Q15286350,Warner Music Taiwan,TW
+452,Q19867672,Coke Boys Records,
+453,Q59456310,Pro Era Records,
+454,Q19879453,Cinematic Music Group,US
+455,Q4653585,Relentless Records,GB
+456,Q7771188,The Ultimate Group,US
+457,Q393401,Aggro Berlin,DE
+458,Q2481499,Fiction Records,GB
+459,Q109012661,Mökkitie Records,FI
+460,Q10854931,YGEX,JP
+461,Q48299960,Sony Music Turkey,TR
+462,Q4034425,Arts & Crafts Productions,CA
+463,Q25476424,Bay Müzik,TR
+464,Q2986623,Roton Music,RO
+465,Q61085898,Global Records,RO
+466,Q3300067,mau5trap,CA
+467,Q10334176,Myrrh Records,US
+468,Q7193701,Inpop Records,US
+469,Q7600903,Star Song Communications,US
+470,Q8034303,Word,US
+471,Q625975,Kakao M,KR
+472,Q85872777,EDAM Entertainment,KR
+473,Q7250147,Propeller Records,
+474,Q56509567,Apen & Kjeften,NO
+475,Q12306407,City Connections,NO
+476,Q892824,Cosmos Music Group,SE
+477,Q3338199,Neon Gold Records,GB
+478,Q7317586,Reunion Records,US
+479,Q680061,Konvict Muzik,US
+480,Q7392802,SRC Records,US
+481,Q7897910,UpFront Records,US
+482,Q858728,Big Dada,GB
+483,Q4952056,Boy Better Know,GB
+484,Q4839198,Back Yard Recordings,US
+485,Q11994837,Pass It Records,NO
+486,Q6092961,Poll Production,TR
+487,Q21189494,Mass Appeal Records,US
+488,Q4053148,Williams Street Records,US
+489,Q3350028,Okayplayer,
+490,Q1075485,So So Def Recordings,US
+491,Q201607,Relativity Records,GB
+492,Q2733913,Deram,GB
+493,Q2137237,Regal Zonophone,GB
+494,Q1324712,Harvest,GB
+495,Q1542119,United Artists Records,US
+496,Q3177785,Jet Records,GB
+497,Q1347984,Sanctuary Records,GB
+498,Q3233924,CBS Records,US
+499,Q885732,Blue Horizon,GB
+500,Q15629687,Roster Music,ES
+501,Q6056226,Erol Köse Production,TR
+502,Q19612254,Pasaj,TR
+503,Q22829081,Wall Recordings,NL
+504,Q2604329,Fascination Records,GB
+505,Q2104471,Disney Music Group,US
+506,Q7414,The Walt Disney Company,US
+507,Q12723678,Cat Music,RO
+508,Q25476676,Virginia Records,BG
+509,Q10366548,SLAP,BR
+510,Q2221241,Nappy Boy Entertainment,
+511,Q83256963,GR:OW Records,NO
+512,Q11698396,Fonografika,PL
+513,Q604923,Croatia Records,HR
+514,Q1146096,Custard Records,US
+515,Q3552061,Up-Front Works,JP
+516,Q21130152,RCA Italiana,IT
+517,Q16544594,Extensive Music,SE
+518,Q50221220,Kınay Production,TR
+519,Q1139341,Creation Records,
+520,Q614999,Big Brother,GB
+521,Q1852854,Remote Control Productions,US
+522,Q987085,Zetima,JP
+523,Q2348254,Uptown Records,US
+524,Q3652555,Atlantic Records Group,US
+525,Q45282,Pledis Entertainment,KR
+526,Q7250146,Propeller Recordings,NO
+527,Q6081601,Prestij Müzik,TR
+528,Q16960815,Live Music,PR
+529,Q616975,Ed Banger Records,FR
+530,Q917511,Stones Throw Records,US
+531,Q28223221,TALL RACKS RECORDS,
+532,Q5103606,Chocolate City,NG
+533,Q16846039,Hypnotize Minds,US
+534,Q1949791,will.i.am Music Group,US
+535,Q511059,Maskulin,DE
+536,Q575017,anticon.,US
+537,Q20857261,Quadraro Basement,IT
+538,Q292128,AFM Records,DE
+539,Q63522180,Elevate Records,
+540,Q108785245,Double Hashrate Rec,US
+541,Q749583,Duck Down Music Inc.,US
+542,Q6047078,Topkapı Müzik,TR
+543,Q5629807,HITT Production,TR
+544,Q25818816,Maxximize Records,NL
+545,Q5281128,Dirty Workz,BE
+546,Q5462072,Flow Music,US
+547,Q919701,G-Unit Records,US
+548,Q14474862,TEN Music Group,SE
+549,Q55632006,Roswell Records,US
+550,Q7630543,Suave House Records,US
+551,Q5251049,Def Jam South,US
+552,Q3565108,Wagram Music,FR
+553,Q6349262,Odd Future Records,US
+554,Q7276307,RED Music,US
+555,Q797231,BYG Actuel,FR
+556,Q1275949,ESP-Disk,US
+557,Q7562503,Sony Music Nashville,US
+558,Q3392091,Play On,
+559,Q5014560,CTE World,US
+560,Q1630451,Hospital Records,GB
+561,Q19729579,Nagaswara,ID
+562,Q15905095,Universal Music Taiwan,
+563,Q15903716,EMI Taiwan,TW
+564,Q15898543,Gold Typhoon Taiwan,
+565,Q7562499,Sony Music Entertainment Australia,AU
+566,Q6942482,Musica Studio's,ID
+567,Q4721826,Alfa Records,JP
+568,Q1365614,EMI Music Japan,JP
+569,Q4739333,Amalgam Digital,US
+570,Q5004214,ByrdGang Records,
+571,Q1399294,Fearless Records,US
+572,Q264980,Equal Vision Records,US
+573,Q3771894,Glassnote Records,US
+574,Q722110,İstanbul Plak,TR
+575,Q3566342,Warner Music France,
+576,Q55599293,Rec. 118,FR
+577,Q7276057,RCA Records Nashville,US
+578,Q1921640,Merge Records,US
+579,Q17069901,Rotana Records,SA
+580,Q65079787,Love Renaissance,US
+581,Q8194234,Universal Music LLC,JP
+582,Q21709935,Source Music,KR
+583,Q1328605,King Records,JP
+584,Q17626128,Protocol Recordings,NL
+585,Q2293124,Vicious Vinyl,AU
+586,Q4973330,BBR Music Group,US
+587,Q21036405,Alles oder Nix Records,
+588,Q5483919,Kaiku Entertainment,FI
+589,Q19794485,YMC Entertainment,KR
+590,Q7532146,Situation Two,GB
+591,Q59625658,TenThousand Projects,US
+592,Q106393992,Tha Lights Global,US
+593,Q729590,Fontana Records,IT
+594,Q66717800,Fruits de Mer Records,GB
+595,Q104787825,Abyss Company,KR
+596,Q3699593,Curb Records,US
+597,Q69426967,Demon,CL
+598,Q109640463,L'Escargot,FR
+599,Q5665848,Alerce,
+600,Q4796656,ArtPeople,DK
+601,Q1063242,Charisma,GB
+602,Q3704699,Defected Records,GB
+603,Q60862929,SBM Label,PL
+604,Q772494,Chess Records,US
+605,Q2047343,Flair Records,US
+606,Q5190199,Crush Management,
+607,Q281881,Uprising Records,US
+608,Q4257395,list of Universal Music Group labels,
+609,Q377453,Third Man Records,US
+610,Q778673,Sub Pop,US
+611,Q2737528,Sympathy for the Record Industry,US
+612,Q4382045,Capitol Christian Music Group,US
+613,Q3931027,Real Music,
+614,Q31188182,Ada Müzik,TR
+615,Q264137,Caroline Records,US
+616,Q30646862,Purple Pyramid Records,US
+617,Q55854525,Rich Forever Music,US
+618,Q12472352,Aquarius Musikindo,ID
+619,Q711447,HIM International Music,TW
+620,Q97311156,SUMMIT,JP
+621,Q2533333,Blackground Records,US
+622,Q2338889,MCA Records,US
+623,Q8074743,Zoë Records,US
+624,Q3437460,Mariann,SE
+625,Q1130708,Flying Dutchman Records,US
+626,Q647983,Argo Records,US
+627,Q1524530,Impulse!,US
+628,Q627091,Rhino Entertainment Company,US
+629,Q885977,Bluebird Records,US
+630,Q1372258,Tokuma Shoten,JP
+631,Q158867,Century Media Records,US
+632,Q42291466,First Access Entertainment,GB
+633,Q59210322,Scumgang Records INC.,US
+634,Q1750746,Stiff Records,GB
+635,Q90922783,Generation Azzlack,DE
+636,Q10437741,Bungalo Records,US
+637,Q4883239,Bell Records,US
+638,Q287177,ABC Records,US
+639,Q3414893,Qwest Records,US
+640,Q773717,Nippon Columbia,JP
+641,Q4779433,Apex,CA
+642,Q1025118,Cadence,US
+643,Q1251139,Dot Records,US
+644,Q48977477,Ammor,US
+645,Q994175,Brunswick Records,US
+646,Q7562453,Sony Classical,US
+647,Q213710,Apple Records,GB
+648,Q679007,Vee-Jay Records,US
+649,Q656752,Rykodisc,US
+650,Q2299832,Mushroom Records,AU
+651,Q2891955,Deconstruction Records,GB
+652,Q5445732,Festival,AU
+653,Q7969735,Warner Music Australia,AU
+654,Q836202,Pete Waterman Entertainment,
+655,Q766909,Hear Music,US
+656,Q22102010,Supreme Records UK,
+657,Q1881437,MGM Records,US
+658,Q9161113,Asfalt Records,PL
+659,Q543391,DJM Records,GB
+660,Q510092,Uni,US
+661,Q7135347,Paramount Records,US
+662,Q18689127,Rocket Records,FI
+663,Q17150066,Congress,US
+664,Q3939773,The Rocket Record Company,GB
+665,Q478062,RAK,GB
+666,Q1795027,Philles Records,US
+667,Q3176895,Challenge Records,NL
+668,Q1757254,OKeh Records,US
+669,Q7077570,Ode Records,US
+670,Q4883242,Bell Records,
+671,Q1191537,V2 Records,US
+672,Q136485,ZTT Records,GB
+673,Q5463202,Fly Records,GB
+674,Q4574114,Grappa,NO
+675,Q1475707,Fuzzy Door Productions,US
+676,Q5035920,Capitol Records Nashville,US
+677,Q170416,Koninklijke Philips NV,NL
+678,Q2755989,Syco Entertainment,GB
+679,Q1112471,Columbia Graphophone Co. Ltd.,GB
+680,Q7493975,Shelter Records,US
+681,Q4839773,Backstreet Records,US
+682,Q15715824,Sonic Boom,
+683,Q6127073,JMJ Records,US
+684,Q990796,Brother Records,US
+685,Q5031935,Candix Records,US
+686,Q1060070,Challenge Records,US
+687,Q304509,MCA Inc.,US
+688,Q2984481,Colpix Records,US
+689,Q3844913,Manticore,GB
+690,Q2998569,Cotillion,US
+691,Q2085941,Lioness Records,GB
+692,Q1572589,Musicraft Records,US
+693,Q6012600,In the Name Of,
+694,Q125272,Aladdin,US
+695,Q7923012,Verve Forecast Records,US
+696,Q7562494,Sony Masterworks,US
+697,Q4998737,Burgundy Records,US
+698,Q5621680,Gut Records,GB
+699,Q3922628,Profile Records,US
+700,Q2016567,Maverick,US
+701,Q3512782,Hib-Tone,US
+702,Q5158829,Concord Bicycle Music,US
+703,Q7012398,New West Records,US
+704,Q4020374,Windstar Records,US
+705,Q949848,Roulette,US
+706,Q2511544,SBK Records,US
+707,Q1395670,Fania Records,US
+708,Q5808276,Belter,ES
+709,Q1124153,Spinefarm Records,FI
+710,Q2704081,143 Records,US
+711,Q6753829,MapleMusic Recordings,CA
+712,Q15279630,Orlando,FR
+713,Q4819829,Audio Fidelity,US
+714,Q1046707,Casablanca Records,US
+715,Q3016029,Dare to Care Records,CA
+716,Q3117047,Grosse Boîte,CA
+717,Q1814125,Schema Records,IT
+718,Q5196018,Curtom Records,US
+719,Q2858450,Apollo Records,US
+720,Q19373938,Heilo,NO
+721,Q50281827,Talik Records,NO
+722,Q86750472,Sony Music Philippines,PH
+723,Q2860203,Kayax,PL
+724,Q3045977,EMI Classics,GB
+725,Q7971173,Warwick Records,US
+726,Q1656672,Miracle,US
+727,Q59469453,Gordy,US
+728,Q60545294,Tamla Motown,
+729,Q1392321,Liberty Records,US
+730,Q7261457,Purple Ribbon Records,
+731,Q7577381,Spin,AU
+732,Q1096973,Subterranean Records,
+733,Q1397901,Cleopatra Records,US
+734,Q1780995,20th Century Fox Records,US
+735,Q5465132,Fontana Distribution,US
+736,Q5971773,RCA/Jive Label Group,US
+737,Q7371865,Rowdy Records,US
+738,Q3439752,Blue Thumb Records,US
+739,Q7201159,Planet Records,US
+740,Q1470264,Frontiers Records,IT
+741,Q3179416,MediaPro Music,RO
+742,Q64022956,Warner Music Sweden,SE
+743,Q3013343,Dance Nation,GB
+744,Q51729296,Broma 16,RU
+745,Q51536944,Alex Music,SE
+746,Q22969159,Doorn Records,
+747,Q3038347,Downtown Records,US
+748,Q40749179,Indochine Records,
+749,Q1110777,Portrait,US
+750,Q5972302,Ingrid,SE
+751,Q917561,Kitsuné,FR
+752,Q5204852,DEP International,GB
+753,Q1308364,Fantasy,US
+754,Q1984458,Capricorn Records,US
+755,Q21089,Martin Kierszenbaum,
+756,Q4869881,Battery Records,US
+757,Q3896178,Parlophon,DE
+758,Q3790169,I Dischi Dello Zodiaco,IT
+759,Q7299689,Razzia Records,SE
+760,Q776031,Bliss Corporation,IT
+761,Q55315948,Big Loud,US
+762,Q89190569,Grand Musique Management,FR
+763,Q1971673,R&S Records,BE
+764,Q2661783,Excelsior Recordings,NL
+765,Q1072828,Kioon Music,JP
+766,Q912649,Trustkill Records,US
+767,Q18205278,Atlantic Records UK,GB
+768,Q10269523,"EMI-Odeon Fonográfica, Industrial e Eletrônica S.A.",BR
+769,Q2996526,Cooking Vinyl,GB
+770,Q14942261,Noah's Ark,NL
+771,Q1810123,Wichita Recordings,GB
+772,Q283584,Rabid Records,
+773,Q225269,GRGDN,TR
+774,Q56640467,Question Everything,US
+775,Q7535619,Skint Records,
+776,Q11315207,Sony Music Associated Records,JP
+777,Q19726033,GP Records,ID
+778,Q19398541,Warner Music Norway,NO
+779,Q48772144,Eusonia Records,US
+780,Q60713812,Sony Music Norway,NO
+781,Q24260071,Ambitiouz Entertainment,ZA
+782,Q56883180,Ricordi,
+783,Q3622704,Ariston,IT
+784,Q18574662,Durium,IT
+785,Q3684977,CGD,IT
+786,Q4008582,Vanilla,IT
+787,Q3804023,It,IT
+788,Q54485190,MLD Entertainment,KR
+789,Q12515931,Sony Music Indonesia,ID
+790,Q48815975,Future House Music,
+791,Q60176586,Maciste Dischi,IT
+792,Q1971223,Rap-A-Lot Records,US
+793,Q16161254,Hybe Corporation,KR
+794,Q1154245,Rhythm Zone,JP
+795,Q10269526,EMI Music Australia,
+796,Q5935202,Payner,BG
+797,Q16174772,Rainbow Bridge World,KR
+798,Q2311775,DGC Records,US
+799,Q59455323,Sony Music Colombia,
+800,Q17478029,FM Discos y Cintas,CO
+801,Q16837404,Balloom,
+802,Q3542260,Turbo,
+803,Q219877,Zone,
+804,Q644144,Greensleeves Records,GB
+805,Q518854,Delicious Vinyl,US
+806,Q8193865,Sony Music Records,JP
+807,Q17216773,tearbridge production,JP
+808,Q533572,Specialty,US
+809,Q5034033,Cantora Records,US
+810,Q8073825,Zona Bruta,ES
+811,Q6170089,Yo Gano,ES
+812,Q22116917,Apulanta,FI
+813,Q3237252,Levy-yhtiö,FI
+814,Q1397914,Fat Possum Records,US
+815,Q28310645,Label SJ,
+816,Q3030172,DRO,ES
+817,Q693194,Napalm Records,AT
+818,Q16383411,Future Classic,AU
+819,Q19968197,Gruenrekorder,DE
+820,Q605388,Fat Wreck Chords,US
+821,Q4048005,RAM Records,GB
+822,Q97930407,Jo & Co,
+823,Q484449,Cube Entertainment,KR
+824,Q784001,Moshi Moshi Records,GB
+825,Q77919769,Grade A Productions,US
+826,Q6869316,Minos EMI,GR
+827,Q4022002,YGX,
+828,Q21189423,Last Kings Records,US
+829,Q5457290,Flamingo Recordings,NL
+830,Q63610079,Wicked Awesome Records,US
+831,Q1150311,Toy's Factory,JP
+832,Q549624,Rise Above Records,GB
+833,Q756320,Metal Blade Records,US
+834,Q17070143,Loma Vista Recordings,US
+835,Q1426154,Rawkus Records,US
+836,Q9366777,Universal Music Spain,ES
+837,Q1551705,Modern Records,US
+838,Q5016439,Cadet Records,US
+839,Q21116268,Jive Epic,FR
+840,Q627446,Ill Will Records,US
+841,Q102226106,Solina Records,FI
+842,Q7387407,S. Carter Records,US
+843,Q578943,Factory Records,GB
+844,Q2400027,Factory Benelux,BE
+845,Q20646930,Alfa Records,ID
+846,Q20992262,JLe Management,IT
+847,Q20988109,Freak & Chic,IT
+848,Q106128804,Universal Music Russia,RU
+849,Q7079783,Og Music,CA
+850,Q7658578,Swing Mob,US
+851,Q56393180,Akurama Records,ID
+852,Q3090783,Full Surface Records,US
+853,Q1193843,Ruff Ryders Entertainment,US
+854,Q21554828,IST Entertainment,KR
+855,Q5069751,Chameleon,
+856,Q7243094,Primary Wave Records,US
+857,Q6422927,Knockout Entertainment,US
+858,Q4861369,Barnaby Records,US
+859,Q3716272,Dunhill,US
+860,Q800080,A&M Octone Records,US
+861,Q16860534,La calandria,
+862,Q5120875,Cinepoly Records,HK
+863,Q4836116,BNA Records,US
+864,Q1660305,Imperial,US
+865,Q9373896,Wifon,PL
+866,Q376659,Plastician,
+867,Q4384116,City Records,RS
+868,Q65332179,KOZ Entertainment,KR
+869,Q6094434,Quemasucabeza,CL
+870,Q2576206,East West Records,GB
+871,Q7737132,The Goldmind Inc.,US
+872,Q19865172,Todd Moscowitz,
+873,Q39086683,Rich Music,
+874,Q3391420,Planet E Communications,
+875,Q5519888,Game Recordings,US
+876,Q276452,Goliath Artists,
+877,Q1202628,JVCKenwood Victor Entertainment,JP
+878,Q7251106,Prosto Records,PL
+879,Q6940121,Musart,
+880,Q101115774,Good I Music,US
+881,Q4921651,Black River Entertainment,US
+882,Q126399,Warner Bros.,US
+883,Q7201757,Plasma Records,US
+884,Q1337601,Murder Inc. Records,US
+885,Q17151258,Soul Temple Records,US
+886,Q528124,Loud Records,US
+887,Q1107750,Cold Chillin' Records,US
+888,Q5989744,Magenta ema,AR
+889,Q30431407,FCMG,AO
+890,Q64617335,Dreamh Record,AO
+891,Q10393220,Warner Music Chile,CL
+892,Q1848896,Southern Lord Records,US
+893,Q6305494,Sakara Records,FI
+894,Q7027790,Nick Records,US
+895,Q7703654,Terrible Records,US
+896,Q10303978,Iso (record label),
+897,Q1185036,Deluxe Records,DE
+898,Q2964464,Chop Shop Records,US
+899,Q14944631,EMI Records Japan,JP
+900,Q483971,Stone Music Entertainment,KR
+901,Q20943680,Genie Music,KR
+902,Q2280168,Paisley Park Records,US
+903,Q2333874,NPG Records,US
+904,Q4884070,Bellmark Records,US
+905,Q7261440,Purple Music Switzerland,
+906,Q1060165,Riot Games,US
+907,Q12477678,Indo Semar Records,ID
+908,Q9170958,EMI Music Poland Sp. z o.o.,PL
+909,Q15102712,Hot Action Records,DE
+910,Q920079,Desert Storm Records,US
+911,Q745362,Heads Up International,US
+912,Q1122815,Vocalion,US
+913,Q12481196,Demajors,ID
+914,Q3330733,Grand Royal,US
+915,Q4781098,Applause Records,US
+916,Q16496089,Bagua Records,BR
+917,Q1026612,Mystic Production,PL
+918,Q1473770,Fullsteam Records,FI
+919,Q77309060,Little Big Music,NO
+920,Q50133002,Virgin,
+921,Q29514946,M&H Entertainment,KR
+922,Q4806125,ICM Partners,US
+923,Q26710831,Communion Records,GB
+924,Q7299616,Razor & Tie,US
+925,Q960732,Drive-Thru Records,US
+926,Q53137284,Play Two -                        House of Hassani,
+927,Q64706272,Lo-fi Worldwide,AO
+928,Q11894884,Suomen Musiikki,FI
+929,Q108170597,Cityboy,FI
+930,Q3804074,Italdisc,IT
+931,Q3934174,Ri-Fi,IT
+932,Q3887976,PDU,CH
+933,Q726153,Epitaph Records,US
+934,Q2093972,Visible Noise,GB
+935,Q838544,Earache Records,GB
+936,Q12485804,Hits Records,ID
+937,Q842647,Striped bass,
+938,Q60674697,Vallila Music House,FI
+939,Q790187,Avantgarde Music,IT
+940,Q2817918,Six-O-Nine,FR
+941,Q1613412,Midi:Nette M.†.M,JP
+942,Q3307668,Dew Process,AU
+943,Q1131870,Coral,US
+944,Q2723471,Interscope Geffen A&M,US
+945,Q56762278,His Master's Voice,
+946,Q1327994,Matador Records,US
+947,Q56406960,daWorks,NO
+948,Q1239845,Hellcat Records,US
+949,Q7204422,PledgeMusic,
+950,Q4051478,Tico Records,US
+951,Q18390500,YUE HUA Entertainment,CN
+952,Q5095107,Chi Sound Records,US
+953,Q64849564,SDKT Entertainment,NO
+954,Q3269698,Lyric Street Records,US
+955,Q1946521,Monument Records,US
+956,Q22079337,All Money In,US
+957,Q5465369,Food Records,GB
+958,Q3140001,Honest Jon's,GB
+959,Q145540,Southern Fried Records,GB
+960,Q60786375,UnitedMasters,US
+961,Q18394795,Totally Gross National Product,US
+962,Q107504279,Nice Life Recording Company,
+963,Q996818,Polyvinyl,US
+964,Q325866,Real World Records,GB
+965,Q5863630,Fonomusic,ES
+966,Q7044358,No Limit Forever Records,US
+967,Q18628,Roadrunner Records,US
+968,Q1465812,Paramount,US
+969,Q2412906,TF1 Group,FR
+970,Q2301434,Radioactive Records,US
+971,Q5062741,Centricity Music,US
+972,Q30588407,Label No Genre,US
+973,Q70640030,Rebel Rock,US
+974,Q78458850,Is This Art!,FI
+975,Q107522792,IOK Music,
+976,Q107522777,131 Label,
+977,Q220176,Zooland Records,DE
+978,Q60749624,Spillage Village,
+979,Q24866458,The Black Label,KR
+980,Q57389728,Victor,US
+981,Q6749300,Manhattan Records,US
+982,Q17121734,Planet 9,US
+983,Q2413243,The Orchard,
+984,Q12599305,Brand New Music,KR
+985,Q2456091,Immortal Records,US
+986,Q3347106,Néochrome,FR
+987,Q1537118,World Circuit,GB
+988,Q3342404,No Format!,FR
+989,Q100927753,Godd Complexx,US
+990,Q84796344,Sony Music Spain,ES
+991,Q809177,Barsuk Records,US
+992,Q2183149,33rd Street Records,US
+993,Q127289,Volcano Entertainment,US
+994,Q27670061,"PolyGram Records, Inc.",
+995,Q976267,Wall of Sound,GB
+996,Q856329,CLS Music,HU
+997,Q373246,Eagle Records,GB
+998,Q63313551,Ariola Records America,
+999,Q3879381,Numero Uno,IT
+1000,Q301475,5 Minute Walk,US
+1001,Q1631774,Asian Man Records,US
+1002,Q2295655,Carrere,FR
+1003,Q1306283,Modular Recordings,AU
+1004,Q24515260,Heldeep Records,NL
+1005,Q20451494,Suria Records,MY
+1006,Q980704,Studio 100,BE
+1007,Q7562162,Sonográfica,VE
+1008,Q6957268,Nacional Records,US
+1009,Q1113541,Combat Records,US
+1010,Q6546074,Light Records,US
+1011,Q103754677,Música y Entretenimiento,CL
+1012,Q706013,Odeon,DE
+1013,Q288810,ACT Music,DE
+1014,Q2034661,Vanguard Records,US
+1015,Q101535940,Alamo Records,US
+1016,Q10853023,BMG Japan,JP
+1017,Q4790747,Ariola Japan,JP
+1018,Q595808,Kitty Films,JP
+1019,Q2374661,Ant-Zen,DE
+1020,Q279035,Jubilee Records,US
+1021,Q96869944,Victor Victor Worldwide,US
+1022,Q834469,Emperor Entertainment Group,
+1023,Q18392162,G-Series,BD
+1024,Q1503081,Shanachie Records,US
+1025,Q2553853,CNR,NL
+1026,Q16167317,C9 Entertainment,KR
+1027,Q2553368,Albert Productions,AU
+1028,Q6541013,Liberation Records,US
+1029,Q128280,ATO Records,US
+1030,Q4045743,Om Records,US
+1031,Q1123266,Enigma,US
+1032,Q681168,Drakkar Entertainment,DE
+1033,Q17017901,PIAS Recordings,BE
+1034,Q315760,Studio !K7,DE
+1035,Q2608177,Brushfire Records,US
+1036,Q5417294,Everloving Records,
+1037,Q6083361,Island Records Australia,AU
+1038,Q18689034,Osasto-A Records,FI
+1039,Q625631,Jungle Entertainment,KR
+1040,Q7314410,Republic Nashville,US
+1041,Q42297270,Glory Boyz Entertainment,
+1042,Q42297274,Glo Gang,
+1043,Q5045602,Carpark Records,US
+1044,Q5579001,Goldband Records,US
+1045,Q7336183,Rising Tide Records,US
+1046,Q2386070,Sugar Hill Records,US
+1047,Q2975356,Riverside,US
+1048,Q1205595,NBCUniversal Entertainment Japan LLC,JP
+1049,Q49054340,St.319 Entertainment,
+1050,Q9019737,Laboratório Fantasma,BR
+1051,Q7649474,Sussex,US
+1052,Q7317773,Reveal Records,GB
+1053,Q19298963,Rattos Locos Records,DE
+1054,Q466267,I Luv Money Records,DE
+1055,Q38073978,Lollipop,
+1056,Q38074020,Twins,
+1057,Q38074058,DRO EastWest,ES
+1058,Q106287337,Prime Corp Productions,FR
+1059,Q3325295,Les Disques Motors,FR
+1060,Q4024311,Zeus,IT
+1061,Q3438138,Bang Records,US
+1062,Q60743923,Studio J,
+1063,Q101479260,Nordic Notes,DE
+1064,Q77308970,Caroline International,GB
+1065,Q16851359,Jiggiri Records,US
+1066,Q1728690,Kapp Records,US
+1067,Q7405919,Salt Records,GB
+1068,Q4797610,Narada Productions,US
+1069,Q7202395,Platipus Records,GB
+1070,Q5288377,Doghouse Records,US
+1071,Q3489789,Some Bizzare,GB
+1072,Q5398030,Eskaton,GB
+1073,Q5068751,Chalice,GB
+1074,Q684875,Threshold House,GB
+1075,Q2818443,7th Magnitude,
+1076,Q3283821,Pasajero,
+1077,Q2467208,UK Records,GB
+1078,Q2415590,Lench Mob Records,US
+1079,Q61410007,P Nation,KR
+1080,Q370012,Grand Production,RS
+1081,Q106247922,MTG,NO
+1082,Q12603091,Shofar Music,KR
+1083,Q810477,Bassboxxx,DE
+1084,Q30055845,Mastered Trax,MX
+1085,Q106681331,Houndstooth Records,GB
+1086,Q3518860,Terror Squad Entertainment,US
+1087,Q5069785,Chamillitary Entertainment,US
+1088,Q7270229,International Rock Star Records,US
+1089,Q7562525,Sony Urban Music,US
+1090,Q7619938,Storch Music Company,US
+1091,Q7548973,SoBe Entertainment,US
+1092,Q1344736,Entertainment One,US
+1093,Q31179359,KQ Entertainment,KR
+1094,Q2663658,Dark Horse Records,GB
+1095,Q65236918,Katakombi,FI
+1096,Q1772450,Asthmatic Kitty,US
+1097,Q62065050,La Voix de son Maître,FR
+1098,Q5578872,Gold Star Music,US
+1099,Q16499990,True Fantasia,
+1100,Q4923294,GMM Grammy,TH
+1101,Q106484439,Letzte Wölfe GmbH,DE
+1102,Q530710,Global Underground,GB
+1103,Q108127478,Gud Vibrations,
+1104,Q109333088,Ophelia,US
+1105,Q2816342,361 Records,
+1106,Q679551,Mosley Music Group,US
+1107,Q5323517,EMI Televisa Music,MX
+1108,Q998310,I've Sound,
+1109,Q1040761,Key Sounds Label,JP
+1110,Q6778266,Marvelous Entertainment,JP
+1111,Q28531098,Goldzweig,DE
+1112,Q22126104,EVIL LINE RECORDS,JP
+1113,Q16744781,Unborde,JP
+1114,Q5453726,First Priority Music,US
+1115,Q6054868,Oveja Negra,CL
+1116,Q5523762,Garpax Records,US
+1117,Q36598949,BMD Fox Records,JP
+1118,Q7044889,No Remorse Records,DE
+1119,Q28690421,Sacra Music,JP
