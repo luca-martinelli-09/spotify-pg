@@ -109,7 +109,7 @@ LOAD CSV WITH HEADERS FROM "file:///C:/datasets/charts.csv" AS chart
 
 // Load instruments
 USING PERIODIC COMMIT LOAD CSV WITH HEADERS FROM "file:///C:/datasets/instruments.csv" AS instrument
-    CREATE (i:Instrument { name: instrument.name, })
+    CREATE (i:Instrument { name: instrument.name })
 ;
 
 // Load record labels
@@ -117,7 +117,7 @@ USING PERIODIC COMMIT LOAD CSV WITH HEADERS FROM "file:///C:/datasets/instrument
 LOAD CSV WITH HEADERS FROM "file:///C:/datasets/recordLabels.csv" AS recordLabel
     MERGE (r:RecorLabel {
         id: recordLabel.id,
-        name: recordLabel.name,
+        name: recordLabel.name
     })
 
     WITH recordLabel, r
@@ -128,14 +128,13 @@ LOAD CSV WITH HEADERS FROM "file:///C:/datasets/recordLabels.csv" AS recordLabel
 // Load people
 
 LOAD CSV WITH HEADERS FROM "file:///C:/datasets/people.csv" AS person
-    MERGE (p:Person {
-        id: person.id,
-        name: person.name,
-        surname: person.surname,
-        gender: person.gender,
-        birthDate: date(person.birthdate),
-        deathDate: date(person.deathdate),
-    })
+    MERGE (p:Person { id: person.id })
+    ON CREATE
+        SET p.name = person.name,
+            p.surname = person.surname,
+            p.gender = person.gender,
+            p.birthDate = date(person.birthdate),
+            p.deathDate = date(person.deathdate)
 
     WITH person, p
     MATCH (c:Country { id: person.nationality })
