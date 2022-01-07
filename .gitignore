@@ -5,4 +5,5 @@ datasets/*
 !datasets/altCountries.csv
 !datasets/countries.csv
 !datasets/artists.csv
+!datasets/charts.csv
 spotifyCredentials.py
