@@ -8,7 +8,7 @@ CREATE CONSTRAINT IF NOT EXISTS FOR (t:Track) REQUIRE t.id IS UNIQUE ;
 CREATE CONSTRAINT IF NOT EXISTS FOR (ch:Chart) REQUIRE ch.id IS UNIQUE ;
 CREATE CONSTRAINT IF NOT EXISTS FOR (p:Person) REQUIRE p.id IS UNIQUE ;
 CREATE CONSTRAINT IF NOT EXISTS FOR (i:Instrument) REQUIRE i.name IS UNIQUE ;
-CREATE CONSTRAINT IF NOT EXISTS FOR (r:RecorLabel) REQUIRE r.id IS UNIQUE ;
+CREATE CONSTRAINT IF NOT EXISTS FOR (r:RecordLabel) REQUIRE r.id IS UNIQUE ;
 
 // Load genres
 
@@ -115,7 +115,7 @@ USING PERIODIC COMMIT LOAD CSV WITH HEADERS FROM "file:///C:/datasets/instrument
 // Load record labels
 
 LOAD CSV WITH HEADERS FROM "file:///C:/datasets/recordLabels.csv" AS recordLabel
-    MERGE (r:RecorLabel {
+    MERGE (r:RecordLabel {
         id: recordLabel.id,
         name: recordLabel.name
     })
@@ -146,7 +146,7 @@ LOAD CSV WITH HEADERS FROM "file:///C:/datasets/people.csv" AS person
 
     WITH person, p, a, split(person.recordLabels, ",") as recordLabels
     UNWIND recordLabels AS recordLabel
-        MATCH (r:RecorLabel { id: recordLabel })
+        MATCH (r:RecordLabel { id: recordLabel })
         MERGE (a)-[:hasContractWith]->(r)
 
     WITH person, p, split(person.instruments, ",") as instruments
